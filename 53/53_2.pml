@@ -1,0 +1,313 @@
+#LOAD THE PDB FILE
+
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/1OV3_AB_53_D_2.pdb,1OV3_AB_53_D_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/1ZUK_AB_53_C_2.pdb,1ZUK_AB_53_C_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/2DF6_B_53_D_2.pdb,2DF6_B_53_D_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/3THK_A_53_C_2.pdb,3THK_A_53_C_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/4CC2_C_53_D_2.pdb,4CC2_C_53_D_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/4CC3_G_53_H_2.pdb,4CC3_G_53_H_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/4CC7_M_53_N_2.pdb,4CC7_M_53_N_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/4ZNX_AD_53_E_2.pdb,4ZNX_AD_53_E_2
+load /scratch/users/madduran/BuildDatabase/PixelDB/53/4ZNX_BC_53_G_2.pdb,4ZNX_BC_53_G_2
+
+util.cbc
+color gray
+set_color colordef0 = [0.8980392156862745, 0.0, 0.0]
+set_color colordef1 = [0.011764705882352941, 0.2627450980392157, 0.8745098039215686]
+set_color colordef2 = [0.68788929195965043, 0.68358325607636394, 0.82983468911227054]
+set_color colordef3 = [0.08235294117647059, 0.6901960784313725, 0.10196078431372549]
+set_color colordef4 = [0.5843137254901961, 0.8156862745098039, 0.9882352941176471]
+set_color colordef5 = [0.98823529481887817, 0.6866743746925803, 0.57788544519274843]
+
+#DEFINE COLOR OF CLUSTER
+#set_color colordef0 = [0,0,0.5] # R,G,B
+
+
+#COLOR CLUSTER
+#/obj_name//Chain/Residu_num
+
+color colordef1, /1OV3_AB_53_D_2//D/1
+color colordef1, /1OV3_AB_53_D_2//D/2
+color colordef1, /1OV3_AB_53_D_2//D/3
+color colordef0, /1OV3_AB_53_D_2//D/4
+color colordef0, /1OV3_AB_53_D_2//D/5
+color colordef0, /1OV3_AB_53_D_2//D/6
+color colordef0, /1OV3_AB_53_D_2//D/7
+color colordef0, /1OV3_AB_53_D_2//D/8
+color colordef0, /1OV3_AB_53_D_2//D/9
+color colordef1, /1OV3_AB_53_D_2//D/10
+color colordef5, /1OV3_AB_53_D_2//A/129
+color colordef5, /1OV3_AB_53_D_2//A/95
+color colordef5, /1OV3_AB_53_D_2//A/130
+color colordef5, /1OV3_AB_53_D_2//B/40
+color colordef5, /1OV3_AB_53_D_2//A/114
+color colordef5, /1OV3_AB_53_D_2//B/16
+color colordef5, /1OV3_AB_53_D_2//A/127
+color colordef5, /1OV3_AB_53_D_2//A/57
+color colordef5, /1OV3_AB_53_D_2//A/112
+color colordef5, /1OV3_AB_53_D_2//B/42
+color colordef5, /1OV3_AB_53_D_2//A/94
+color colordef5, /1OV3_AB_53_D_2//A/125
+color colordef5, /1OV3_AB_53_D_2//B/41
+color colordef5, /1OV3_AB_53_D_2//A/60
+color colordef5, /1OV3_AB_53_D_2//A/92
+color colordef4, /1OV3_AB_53_D_2//B/38
+color colordef4, /1OV3_AB_53_D_2//B/40
+color colordef4, /1OV3_AB_53_D_2//B/42
+color colordef4, /1OV3_AB_53_D_2//B/23
+color colordef4, /1OV3_AB_53_D_2//A/129
+color colordef4, /1OV3_AB_53_D_2//A/59
+color colordef4, /1OV3_AB_53_D_2//A/55
+color colordef1, /1ZUK_AB_53_C_2//C/1
+color colordef1, /1ZUK_AB_53_C_2//C/2
+color colordef1, /1ZUK_AB_53_C_2//C/3
+color colordef1, /1ZUK_AB_53_C_2//C/4
+color colordef1, /1ZUK_AB_53_C_2//C/5
+color colordef0, /1ZUK_AB_53_C_2//C/6
+color colordef0, /1ZUK_AB_53_C_2//C/7
+color colordef0, /1ZUK_AB_53_C_2//C/8
+color colordef0, /1ZUK_AB_53_C_2//C/9
+color colordef0, /1ZUK_AB_53_C_2//C/10
+color colordef0, /1ZUK_AB_53_C_2//C/11
+color colordef5, /1ZUK_AB_53_C_2//B/60
+color colordef5, /1ZUK_AB_53_C_2//A/39
+color colordef5, /1ZUK_AB_53_C_2//A/40
+color colordef5, /1ZUK_AB_53_C_2//B/12
+color colordef5, /1ZUK_AB_53_C_2//A/58
+color colordef5, /1ZUK_AB_53_C_2//A/21
+color colordef5, /1ZUK_AB_53_C_2//A/18
+color colordef5, /1ZUK_AB_53_C_2//A/56
+color colordef5, /1ZUK_AB_53_C_2//A/60
+color colordef5, /1ZUK_AB_53_C_2//A/61
+color colordef5, /1ZUK_AB_53_C_2//B/61
+color colordef5, /1ZUK_AB_53_C_2//A/20
+color colordef4, /1ZUK_AB_53_C_2//B/56
+color colordef4, /1ZUK_AB_53_C_2//B/58
+color colordef4, /1ZUK_AB_53_C_2//B/60
+color colordef4, /1ZUK_AB_53_C_2//B/21
+color colordef4, /1ZUK_AB_53_C_2//B/39
+color colordef4, /1ZUK_AB_53_C_2//B/61
+color colordef4, /1ZUK_AB_53_C_2//B/40
+color colordef4, /1ZUK_AB_53_C_2//A/12
+color colordef1, /2DF6_B_53_D_2//D/1
+color colordef0, /2DF6_B_53_D_2//D/2
+color colordef0, /2DF6_B_53_D_2//D/3
+color colordef0, /2DF6_B_53_D_2//D/4
+color colordef0, /2DF6_B_53_D_2//D/5
+color colordef0, /2DF6_B_53_D_2//D/6
+color colordef0, /2DF6_B_53_D_2//D/7
+color colordef1, /2DF6_B_53_D_2//D/8
+color colordef1, /2DF6_B_53_D_2//D/9
+color colordef1, /2DF6_B_53_D_2//D/10
+color colordef1, /2DF6_B_53_D_2//D/11
+color colordef1, /2DF6_B_53_D_2//D/12
+color colordef5, /2DF6_B_53_D_2//B/17
+color colordef5, /2DF6_B_53_D_2//B/37
+color colordef5, /2DF6_B_53_D_2//B/55
+color colordef5, /2DF6_B_53_D_2//B/50
+color colordef5, /2DF6_B_53_D_2//B/11
+color colordef5, /2DF6_B_53_D_2//B/19
+color colordef5, /2DF6_B_53_D_2//B/52
+color colordef5, /2DF6_B_53_D_2//B/13
+color colordef5, /2DF6_B_53_D_2//B/20
+color colordef5, /2DF6_B_53_D_2//B/39
+color colordef4, /2DF6_B_53_D_2//B/39
+color colordef4, /2DF6_B_53_D_2//B/50
+color colordef4, /2DF6_B_53_D_2//B/35
+color colordef4, /2DF6_B_53_D_2//B/37
+color colordef4, /2DF6_B_53_D_2//B/36
+color colordef1, /3THK_A_53_C_2//C/1
+color colordef0, /3THK_A_53_C_2//C/2
+color colordef0, /3THK_A_53_C_2//C/3
+color colordef0, /3THK_A_53_C_2//C/4
+color colordef0, /3THK_A_53_C_2//C/5
+color colordef1, /3THK_A_53_C_2//C/6
+color colordef5, /3THK_A_53_C_2//A/52
+color colordef5, /3THK_A_53_C_2//A/8
+color colordef5, /3THK_A_53_C_2//A/36
+color colordef5, /3THK_A_53_C_2//A/35
+color colordef5, /3THK_A_53_C_2//A/51
+color colordef5, /3THK_A_53_C_2//A/49
+color colordef4, /3THK_A_53_C_2//A/8
+color colordef0, /4CC2_C_53_D_2//D/1
+color colordef0, /4CC2_C_53_D_2//D/2
+color colordef0, /4CC2_C_53_D_2//D/3
+color colordef0, /4CC2_C_53_D_2//D/4
+color colordef0, /4CC2_C_53_D_2//D/5
+color colordef0, /4CC2_C_53_D_2//D/6
+color colordef0, /4CC2_C_53_D_2//D/7
+color colordef1, /4CC2_C_53_D_2//D/8
+color colordef1, /4CC2_C_53_D_2//D/9
+color colordef1, /4CC2_C_53_D_2//D/10
+color colordef5, /4CC2_C_53_D_2//C/11
+color colordef5, /4CC2_C_53_D_2//C/56
+color colordef5, /4CC2_C_53_D_2//C/14
+color colordef5, /4CC2_C_53_D_2//C/57
+color colordef5, /4CC2_C_53_D_2//C/40
+color colordef5, /4CC2_C_53_D_2//C/54
+color colordef5, /4CC2_C_53_D_2//C/41
+color colordef4, /4CC2_C_53_D_2//C/34
+color colordef4, /4CC2_C_53_D_2//C/36
+color colordef4, /4CC2_C_53_D_2//C/35
+color colordef4, /4CC2_C_53_D_2//C/41
+color colordef4, /4CC2_C_53_D_2//C/52
+color colordef1, /4CC3_G_53_H_2//H/1
+color colordef1, /4CC3_G_53_H_2//H/2
+color colordef0, /4CC3_G_53_H_2//H/3
+color colordef0, /4CC3_G_53_H_2//H/4
+color colordef0, /4CC3_G_53_H_2//H/5
+color colordef0, /4CC3_G_53_H_2//H/6
+color colordef0, /4CC3_G_53_H_2//H/7
+color colordef0, /4CC3_G_53_H_2//H/8
+color colordef0, /4CC3_G_53_H_2//H/9
+color colordef1, /4CC3_G_53_H_2//H/10
+color colordef1, /4CC3_G_53_H_2//H/11
+color colordef1, /4CC3_G_53_H_2//H/12
+color colordef5, /4CC3_G_53_H_2//G/9
+color colordef5, /4CC3_G_53_H_2//G/55
+color colordef5, /4CC3_G_53_H_2//G/13
+color colordef5, /4CC3_G_53_H_2//G/52
+color colordef5, /4CC3_G_53_H_2//G/38
+color colordef5, /4CC3_G_53_H_2//G/39
+color colordef5, /4CC3_G_53_H_2//G/54
+color colordef5, /4CC3_G_53_H_2//G/12
+color colordef4, /4CC3_G_53_H_2//G/7
+color colordef4, /4CC3_G_53_H_2//G/33
+color colordef4, /4CC3_G_53_H_2//G/15
+color colordef4, /4CC3_G_53_H_2//G/55
+color colordef4, /4CC3_G_53_H_2//G/39
+color colordef4, /4CC3_G_53_H_2//G/32
+color colordef4, /4CC3_G_53_H_2//G/50
+color colordef1, /4CC7_M_53_N_2//N/1
+color colordef1, /4CC7_M_53_N_2//N/2
+color colordef0, /4CC7_M_53_N_2//N/3
+color colordef0, /4CC7_M_53_N_2//N/4
+color colordef0, /4CC7_M_53_N_2//N/5
+color colordef0, /4CC7_M_53_N_2//N/6
+color colordef0, /4CC7_M_53_N_2//N/7
+color colordef0, /4CC7_M_53_N_2//N/8
+color colordef0, /4CC7_M_53_N_2//N/9
+color colordef1, /4CC7_M_53_N_2//N/10
+color colordef1, /4CC7_M_53_N_2//N/11
+color colordef5, /4CC7_M_53_N_2//M/52
+color colordef5, /4CC7_M_53_N_2//M/13
+color colordef5, /4CC7_M_53_N_2//M/12
+color colordef5, /4CC7_M_53_N_2//M/54
+color colordef5, /4CC7_M_53_N_2//M/38
+color colordef5, /4CC7_M_53_N_2//M/55
+color colordef5, /4CC7_M_53_N_2//M/39
+color colordef5, /4CC7_M_53_N_2//M/9
+color colordef4, /4CC7_M_53_N_2//M/16
+color colordef4, /4CC7_M_53_N_2//M/50
+color colordef4, /4CC7_M_53_N_2//M/32
+color colordef4, /4CC7_M_53_N_2//M/33
+color colordef4, /4CC7_M_53_N_2//M/55
+color colordef4, /4CC7_M_53_N_2//M/34
+color colordef4, /4CC7_M_53_N_2//M/39
+color colordef1, /4ZNX_AD_53_E_2//E/1
+color colordef0, /4ZNX_AD_53_E_2//E/2
+color colordef0, /4ZNX_AD_53_E_2//E/3
+color colordef0, /4ZNX_AD_53_E_2//E/4
+color colordef0, /4ZNX_AD_53_E_2//E/5
+color colordef0, /4ZNX_AD_53_E_2//E/6
+color colordef0, /4ZNX_AD_53_E_2//E/7
+color colordef1, /4ZNX_AD_53_E_2//E/8
+color colordef1, /4ZNX_AD_53_E_2//E/9
+color colordef1, /4ZNX_AD_53_E_2//E/10
+color colordef5, /4ZNX_AD_53_E_2//A/36
+color colordef5, /4ZNX_AD_53_E_2//D/36
+color colordef5, /4ZNX_AD_53_E_2//D/56
+color colordef5, /4ZNX_AD_53_E_2//A/13
+color colordef5, /4ZNX_AD_53_E_2//A/10
+color colordef5, /4ZNX_AD_53_E_2//D/34
+color colordef5, /4ZNX_AD_53_E_2//D/51
+color colordef5, /4ZNX_AD_53_E_2//A/8
+color colordef5, /4ZNX_AD_53_E_2//A/51
+color colordef5, /4ZNX_AD_53_E_2//A/35
+color colordef5, /4ZNX_AD_53_E_2//A/17
+color colordef5, /4ZNX_AD_53_E_2//D/52
+color colordef5, /4ZNX_AD_53_E_2//A/53
+color colordef5, /4ZNX_AD_53_E_2//A/54
+color colordef5, /4ZNX_AD_53_E_2//D/54
+color colordef5, /4ZNX_AD_53_E_2//D/55
+color colordef4, /4ZNX_AD_53_E_2//D/36
+color colordef4, /4ZNX_AD_53_E_2//D/3
+color colordef4, /4ZNX_AD_53_E_2//A/36
+color colordef4, /4ZNX_AD_53_E_2//A/33
+color colordef4, /4ZNX_AD_53_E_2//D/30
+color colordef4, /4ZNX_AD_53_E_2//A/35
+color colordef4, /4ZNX_AD_53_E_2//D/31
+color colordef4, /4ZNX_AD_53_E_2//A/34
+color colordef1, /4ZNX_BC_53_G_2//G/1
+color colordef0, /4ZNX_BC_53_G_2//G/2
+color colordef0, /4ZNX_BC_53_G_2//G/3
+color colordef0, /4ZNX_BC_53_G_2//G/4
+color colordef0, /4ZNX_BC_53_G_2//G/5
+color colordef0, /4ZNX_BC_53_G_2//G/6
+color colordef0, /4ZNX_BC_53_G_2//G/7
+color colordef1, /4ZNX_BC_53_G_2//G/8
+color colordef1, /4ZNX_BC_53_G_2//G/9
+color colordef5, /4ZNX_BC_53_G_2//C/15
+color colordef5, /4ZNX_BC_53_G_2//B/55
+color colordef5, /4ZNX_BC_53_G_2//C/49
+color colordef5, /4ZNX_BC_53_G_2//C/34
+color colordef5, /4ZNX_BC_53_G_2//B/51
+color colordef5, /4ZNX_BC_53_G_2//C/51
+color colordef5, /4ZNX_BC_53_G_2//C/6
+color colordef5, /4ZNX_BC_53_G_2//B/50
+color colordef5, /4ZNX_BC_53_G_2//C/33
+color colordef5, /4ZNX_BC_53_G_2//B/35
+color colordef5, /4ZNX_BC_53_G_2//C/11
+color colordef5, /4ZNX_BC_53_G_2//B/53
+color colordef5, /4ZNX_BC_53_G_2//C/8
+color colordef5, /4ZNX_BC_53_G_2//B/54
+color colordef5, /4ZNX_BC_53_G_2//C/52
+color colordef5, /4ZNX_BC_53_G_2//B/33
+color colordef4, /4ZNX_BC_53_G_2//C/32
+color colordef4, /4ZNX_BC_53_G_2//B/32
+color colordef4, /4ZNX_BC_53_G_2//C/34
+color colordef4, /4ZNX_BC_53_G_2//B/30
+color colordef4, /4ZNX_BC_53_G_2//C/33
+color colordef4, /4ZNX_BC_53_G_2//B/35
+color colordef4, /4ZNX_BC_53_G_2//B/29
+color colordef4, /4ZNX_BC_53_G_2//C/31
+show lines, /1OV3_AB_53_D_2//D/
+show ribbon, /1OV3_AB_53_D_2//D/
+show lines, /1ZUK_AB_53_C_2//C/
+show ribbon, /1ZUK_AB_53_C_2//C/
+show lines, /2DF6_B_53_D_2//D/
+show ribbon, /2DF6_B_53_D_2//D/
+show lines, /3THK_A_53_C_2//C/
+show ribbon, /3THK_A_53_C_2//C/
+show lines, /4CC2_C_53_D_2//D/
+show ribbon, /4CC2_C_53_D_2//D/
+show lines, /4CC3_G_53_H_2//H/
+show ribbon, /4CC3_G_53_H_2//H/
+show lines, /4CC7_M_53_N_2//N/
+show ribbon, /4CC7_M_53_N_2//N/
+show lines, /4ZNX_AD_53_E_2//E/
+show ribbon, /4ZNX_AD_53_E_2//E/
+show lines, /4ZNX_BC_53_G_2//G/
+show ribbon, /4ZNX_BC_53_G_2//G/
+show cartoon, /1OV3_AB_53_D_2//AB/
+show surface, /1OV3_AB_53_D_2//AB/
+show cartoon, /1ZUK_AB_53_C_2//AB/
+show surface, /1ZUK_AB_53_C_2//AB/
+show cartoon, /2DF6_B_53_D_2//B/
+show surface, /2DF6_B_53_D_2//B/
+show cartoon, /3THK_A_53_C_2//A/
+show surface, /3THK_A_53_C_2//A/
+show cartoon, /4CC2_C_53_D_2//C/
+show surface, /4CC2_C_53_D_2//C/
+show cartoon, /4CC3_G_53_H_2//G/
+show surface, /4CC3_G_53_H_2//G/
+show cartoon, /4CC7_M_53_N_2//M/
+show surface, /4CC7_M_53_N_2//M/
+show cartoon, /4ZNX_AD_53_E_2//AD/
+show surface, /4ZNX_AD_53_E_2//AD/
+show cartoon, /4ZNX_BC_53_G_2//BC/
+show surface, /4ZNX_BC_53_G_2//BC/
+set surface_mode, 3
+
+#SAVE AS PSE
+save cluster53_2.pse

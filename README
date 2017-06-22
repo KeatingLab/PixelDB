@@ -1,0 +1,50 @@
+===========================================================================================================================================
+PixelDB Contents
+===========================================================================================================================================
+
+Levy Classication Key:
+C: COR, I: INT, R: RIM, P: SUP, S:SUR
+
+Stride Classification Key: 
+C: Coil, E: Strand, T: Turn, G: 310Helix, H: AlphaHelix, B: Bridge
+
+===========================================================================================================================================
+
+- CATH: CATH ID from http://www.cathdb.info/ 
+- Pfam: Pfam annotation
+- binding_mode: the binding mode the complex corresponds to 
+- cluster_number: the receptor cluster label for similarly folded receptors
+- core_aa: amino acid counts for the core region of the peptide
+- core_ecr_alignment: classification of core and ecr residues 
+- core_levy: levy classication counts for the core region of the peptide
+- core_ss: secondary structure (stride) classification counts for the core region of the peptide
+- corebinding_aa: amino acid counts for the corebinding region of the receptor(s)
+- corebinding_loc: locations of the corebinding residues (w/i 2.5 A of core)
+- corebinding_ss: secondary structure (stride) classification counts for the corebinding region of the receptor(s)
+- ecr_aa: amino acid counts for the ecr region of the peptide
+- ecr_levy: levy classication counts for the ecr region of the peptide
+- ecr_ss: secondary structure (stride) classification counts for the ecr region of the peptide
+- exo_aa: amino acid counts for the exosite region of the receptor(s)
+- exo_ss: secondary structure (stride) classification counts for the exosite region of the receptor(s)
+- exosite_loc: locations of the exosite residues (w/i 2.5 A of ecr)
+- levy_alignment: levy classifcation for peptide
+- longest_continuous_core: longest continuous stretch of core in peptide
+- longest_continuous_ecr: longest continuous stretch of ecr in peptide
+- name: PDB ID _ receptor chain(s) _ cluster number _ peptide chain _ binding mode
+- pdb_id: ID from Protein Data Bank
+- peptide_chain: chain classified as peptide
+- peptide_length: length of the peptide
+- percent_exposed_alignment: 
+- pubmed_id: Pubmed ID 
+- raw_header: raw header of the PDB file
+- receptor_chain: chain classified as receptor
+- receptor_length: length of the receptor
+- resolution: resolution of the complex
+- sequence_alignment: sequence alignment compared to the binding mode 
+- sequence_entropy: identity 
+- size_of_binding mode: how many complexes have the same binding mode
+- stride: classification of secondary structure (stride) for the peptide
+- surf_aa: amino acid counts for the surface regions of the receptor(s)
+- surf_ss: secondary structure (stride) classification counts for the surface region of the receptor(s)
+- surface: locations of the surface residues
+- uniprot: uniprot ID
