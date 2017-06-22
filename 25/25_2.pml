@@ -1,16 +1,16 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/1KJH_AB_25_P_2.pdb,1KJH_AB_25_P_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/3OU1_AB_25_P_2.pdb,3OU1_AB_25_P_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4EP2_A_25_B_2.pdb,4EP2_A_25_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4EP3_A_25_E_2.pdb,4EP3_A_25_E_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4EPJ_A_25_D_2.pdb,4EPJ_A_25_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4FAE_AB_25_D_2.pdb,4FAE_AB_25_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4OBD_CD_25_F_2.pdb,4OBD_CD_25_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4OBJ_AB_25_C_2.pdb,4OBJ_AB_25_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4OBK_AB_25_C_2.pdb,4OBK_AB_25_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4QJ2_CD_25_F_2.pdb,4QJ2_CD_25_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/25/4QJA_AB_25_P_2.pdb,4QJA_AB_25_P_2
+load 1KJH_AB_25_P_2.pdb,1KJH_AB_25_P_2
+load 3OU1_AB_25_P_2.pdb,3OU1_AB_25_P_2
+load 4EP2_A_25_B_2.pdb,4EP2_A_25_B_2
+load 4EP3_A_25_E_2.pdb,4EP3_A_25_E_2
+load 4EPJ_A_25_D_2.pdb,4EPJ_A_25_D_2
+load 4FAE_AB_25_D_2.pdb,4FAE_AB_25_D_2
+load 4OBD_CD_25_F_2.pdb,4OBD_CD_25_F_2
+load 4OBJ_AB_25_C_2.pdb,4OBJ_AB_25_C_2
+load 4OBK_AB_25_C_2.pdb,4OBK_AB_25_C_2
+load 4QJ2_CD_25_F_2.pdb,4QJ2_CD_25_F_2
+load 4QJA_AB_25_P_2.pdb,4QJA_AB_25_P_2
 
 util.cbc
 color gray

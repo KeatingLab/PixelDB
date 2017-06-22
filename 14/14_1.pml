@@ -1,27 +1,27 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1CDL_D_14_H_1.pdb,1CDL_D_14_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1CDM_A_14_B_1.pdb,1CDM_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1CM1_A_14_B_1.pdb,1CM1_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1IWQ_A_14_B_1.pdb,1IWQ_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1NIW_A_14_B_1.pdb,1NIW_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1QTX_A_14_B_1.pdb,1QTX_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1WRZ_A_14_B_1.pdb,1WRZ_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1YR5_A_14_B_1.pdb,1YR5_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/1ZUZ_A_14_B_1.pdb,1ZUZ_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/2FOT_A_14_C_1.pdb,2FOT_A_14_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/2HQW_A_14_B_1.pdb,2HQW_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/2O5G_A_14_B_1.pdb,2O5G_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/2O60_A_14_B_1.pdb,2O60_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/2Y4V_A_14_B_1.pdb,2Y4V_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/3BYA_A_14_B_1.pdb,3BYA_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/3DVE_A_14_B_1.pdb,3DVE_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/3DVK_A_14_B_1.pdb,3DVK_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/3EWT_A_14_E_1.pdb,3EWT_A_14_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/3GOF_B_14_D_1.pdb,3GOF_B_14_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/3SUI_A_14_B_1.pdb,3SUI_A_14_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/4Q5U_A_14_C_1.pdb,4Q5U_A_14_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/14/4UPU_A_14_B_1.pdb,4UPU_A_14_B_1
+load 1CDL_D_14_H_1.pdb,1CDL_D_14_H_1
+load 1CDM_A_14_B_1.pdb,1CDM_A_14_B_1
+load 1CM1_A_14_B_1.pdb,1CM1_A_14_B_1
+load 1IWQ_A_14_B_1.pdb,1IWQ_A_14_B_1
+load 1NIW_A_14_B_1.pdb,1NIW_A_14_B_1
+load 1QTX_A_14_B_1.pdb,1QTX_A_14_B_1
+load 1WRZ_A_14_B_1.pdb,1WRZ_A_14_B_1
+load 1YR5_A_14_B_1.pdb,1YR5_A_14_B_1
+load 1ZUZ_A_14_B_1.pdb,1ZUZ_A_14_B_1
+load 2FOT_A_14_C_1.pdb,2FOT_A_14_C_1
+load 2HQW_A_14_B_1.pdb,2HQW_A_14_B_1
+load 2O5G_A_14_B_1.pdb,2O5G_A_14_B_1
+load 2O60_A_14_B_1.pdb,2O60_A_14_B_1
+load 2Y4V_A_14_B_1.pdb,2Y4V_A_14_B_1
+load 3BYA_A_14_B_1.pdb,3BYA_A_14_B_1
+load 3DVE_A_14_B_1.pdb,3DVE_A_14_B_1
+load 3DVK_A_14_B_1.pdb,3DVK_A_14_B_1
+load 3EWT_A_14_E_1.pdb,3EWT_A_14_E_1
+load 3GOF_B_14_D_1.pdb,3GOF_B_14_D_1
+load 3SUI_A_14_B_1.pdb,3SUI_A_14_B_1
+load 4Q5U_A_14_C_1.pdb,4Q5U_A_14_C_1
+load 4UPU_A_14_B_1.pdb,4UPU_A_14_B_1
 
 util.cbc
 color gray

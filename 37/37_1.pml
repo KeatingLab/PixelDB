@@ -1,14 +1,14 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/1JPL_A_37_E_1.pdb,1JPL_A_37_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/1JUQ_C_37_G_1.pdb,1JUQ_C_37_G_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/1JWG_B_37_D_1.pdb,1JWG_B_37_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/1LF8_D_37_H_1.pdb,1LF8_D_37_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/3G2S_B_37_D_1.pdb,3G2S_B_37_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/3G2T_B_37_D_1.pdb,3G2T_B_37_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/3G2U_B_37_D_1.pdb,3G2U_B_37_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/3G2V_B_37_D_1.pdb,3G2V_B_37_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/37/3G2W_B_37_D_1.pdb,3G2W_B_37_D_1
+load 1JPL_A_37_E_1.pdb,1JPL_A_37_E_1
+load 1JUQ_C_37_G_1.pdb,1JUQ_C_37_G_1
+load 1JWG_B_37_D_1.pdb,1JWG_B_37_D_1
+load 1LF8_D_37_H_1.pdb,1LF8_D_37_H_1
+load 3G2S_B_37_D_1.pdb,3G2S_B_37_D_1
+load 3G2T_B_37_D_1.pdb,3G2T_B_37_D_1
+load 3G2U_B_37_D_1.pdb,3G2U_B_37_D_1
+load 3G2V_B_37_D_1.pdb,3G2V_B_37_D_1
+load 3G2W_B_37_D_1.pdb,3G2W_B_37_D_1
 
 util.cbc
 color gray

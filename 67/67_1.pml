@@ -1,12 +1,12 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/67/1YY6_A_67_B_1.pdb,1YY6_A_67_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/67/2FOJ_A_67_B_1.pdb,2FOJ_A_67_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/67/2FOO_A_67_B_1.pdb,2FOO_A_67_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/67/2FOP_A_67_B_1.pdb,2FOP_A_67_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/67/3MQS_C_67_D_1.pdb,3MQS_C_67_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/67/4KG9_A_67_B_1.pdb,4KG9_A_67_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/67/4YSI_A_67_B_1.pdb,4YSI_A_67_B_1
+load 1YY6_A_67_B_1.pdb,1YY6_A_67_B_1
+load 2FOJ_A_67_B_1.pdb,2FOJ_A_67_B_1
+load 2FOO_A_67_B_1.pdb,2FOO_A_67_B_1
+load 2FOP_A_67_B_1.pdb,2FOP_A_67_B_1
+load 3MQS_C_67_D_1.pdb,3MQS_C_67_D_1
+load 4KG9_A_67_B_1.pdb,4KG9_A_67_B_1
+load 4YSI_A_67_B_1.pdb,4YSI_A_67_B_1
 
 util.cbc
 color gray

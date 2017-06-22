@@ -1,17 +1,17 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/1EJH_D_22_H_1.pdb,1EJH_D_22_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/1WKW_A_22_B_1.pdb,1WKW_A_22_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/2V8Y_A_22_B_1.pdb,2V8Y_A_22_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/2W97_A_22_E_1.pdb,2W97_A_22_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/2W97_B_22_F_1.pdb,2W97_B_22_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/3AM7_A_22_B_1.pdb,3AM7_A_22_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/3HXG_A_22_C_1.pdb,3HXG_A_22_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/3HXI_A_22_C_1.pdb,3HXI_A_22_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/3M94_A_22_C_1.pdb,3M94_A_22_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/3U7X_A_22_C_1.pdb,3U7X_A_22_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/4AZA_C_22_D_1.pdb,4AZA_C_22_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/22/5ABY_E_22_F_1.pdb,5ABY_E_22_F_1
+load 1EJH_D_22_H_1.pdb,1EJH_D_22_H_1
+load 1WKW_A_22_B_1.pdb,1WKW_A_22_B_1
+load 2V8Y_A_22_B_1.pdb,2V8Y_A_22_B_1
+load 2W97_A_22_E_1.pdb,2W97_A_22_E_1
+load 2W97_B_22_F_1.pdb,2W97_B_22_F_1
+load 3AM7_A_22_B_1.pdb,3AM7_A_22_B_1
+load 3HXG_A_22_C_1.pdb,3HXG_A_22_C_1
+load 3HXI_A_22_C_1.pdb,3HXI_A_22_C_1
+load 3M94_A_22_C_1.pdb,3M94_A_22_C_1
+load 3U7X_A_22_C_1.pdb,3U7X_A_22_C_1
+load 4AZA_C_22_D_1.pdb,4AZA_C_22_D_1
+load 5ABY_E_22_F_1.pdb,5ABY_E_22_F_1
 
 util.cbc
 color gray

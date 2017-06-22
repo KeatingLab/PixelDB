@@ -1,12 +1,12 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/135/3TWR_D_135_H_1.pdb,3TWR_D_135_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/135/3TWS_D_135_H_1.pdb,3TWS_D_135_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/135/3TWT_D_135_H_1.pdb,3TWT_D_135_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/135/3TWU_A_135_B_1.pdb,3TWU_A_135_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/135/3TWV_D_135_H_1.pdb,3TWV_D_135_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/135/3TWW_AB_135_C_1.pdb,3TWW_AB_135_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/135/3TWX_B_135_D_1.pdb,3TWX_B_135_D_1
+load 3TWR_D_135_H_1.pdb,3TWR_D_135_H_1
+load 3TWS_D_135_H_1.pdb,3TWS_D_135_H_1
+load 3TWT_D_135_H_1.pdb,3TWT_D_135_H_1
+load 3TWU_A_135_B_1.pdb,3TWU_A_135_B_1
+load 3TWV_D_135_H_1.pdb,3TWV_D_135_H_1
+load 3TWW_AB_135_C_1.pdb,3TWW_AB_135_C_1
+load 3TWX_B_135_D_1.pdb,3TWX_B_135_D_1
 
 util.cbc
 color gray

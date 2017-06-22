@@ -1,9 +1,9 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1LES_A_11_D_2.pdb,1LES_A_11_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1LOA_G_11_F_2.pdb,1LOA_G_11_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1OFS_A_11_D_2.pdb,1OFS_A_11_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/2LAL_A_11_D_2.pdb,2LAL_A_11_D_2
+load 1LES_A_11_D_2.pdb,1LES_A_11_D_2
+load 1LOA_G_11_F_2.pdb,1LOA_G_11_F_2
+load 1OFS_A_11_D_2.pdb,1OFS_A_11_D_2
+load 2LAL_A_11_D_2.pdb,2LAL_A_11_D_2
 
 util.cbc
 color gray

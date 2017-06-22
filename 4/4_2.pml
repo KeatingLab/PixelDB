@@ -1,14 +1,14 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/1EJO_HL_4_P_2.pdb,1EJO_HL_4_P_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/1N64_HL_4_P_2.pdb,1N64_HL_4_P_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/1TET_HL_4_P_2.pdb,1TET_HL_4_P_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3FFD_AB_4_P_2.pdb,3FFD_AB_4_P_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3G5V_AB_4_C_2.pdb,3G5V_AB_4_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3O6L_HL_4_C_2.pdb,3O6L_HL_4_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4JO1_IM_4_Q_2.pdb,4JO1_IM_4_Q_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4JO2_IM_4_Q_2.pdb,4JO2_IM_4_Q_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4YO0_CD_4_F_2.pdb,4YO0_CD_4_F_2
+load 1EJO_HL_4_P_2.pdb,1EJO_HL_4_P_2
+load 1N64_HL_4_P_2.pdb,1N64_HL_4_P_2
+load 1TET_HL_4_P_2.pdb,1TET_HL_4_P_2
+load 3FFD_AB_4_P_2.pdb,3FFD_AB_4_P_2
+load 3G5V_AB_4_C_2.pdb,3G5V_AB_4_C_2
+load 3O6L_HL_4_C_2.pdb,3O6L_HL_4_C_2
+load 4JO1_IM_4_Q_2.pdb,4JO1_IM_4_Q_2
+load 4JO2_IM_4_Q_2.pdb,4JO2_IM_4_Q_2
+load 4YO0_CD_4_F_2.pdb,4YO0_CD_4_F_2
 
 util.cbc
 color gray

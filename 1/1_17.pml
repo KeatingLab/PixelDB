@@ -1,13 +1,13 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U8Q_AB_1_C_17.pdb,1U8Q_AB_1_C_17
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U93_AB_1_C_17.pdb,1U93_AB_1_C_17
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/2P8L_AB_1_C_17.pdb,2P8L_AB_1_C_17
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3BKJ_HL_1_A_17.pdb,3BKJ_HL_1_A_17
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3D0L_AB_1_C_17.pdb,3D0L_AB_1_C_17
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3D0V_AB_1_C_17.pdb,3D0V_AB_1_C_17
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3H0T_AB_1_C_17.pdb,3H0T_AB_1_C_17
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4DGY_HL_1_A_17.pdb,4DGY_HL_1_A_17
+load 1U8Q_AB_1_C_17.pdb,1U8Q_AB_1_C_17
+load 1U93_AB_1_C_17.pdb,1U93_AB_1_C_17
+load 2P8L_AB_1_C_17.pdb,2P8L_AB_1_C_17
+load 3BKJ_HL_1_A_17.pdb,3BKJ_HL_1_A_17
+load 3D0L_AB_1_C_17.pdb,3D0L_AB_1_C_17
+load 3D0V_AB_1_C_17.pdb,3D0V_AB_1_C_17
+load 3H0T_AB_1_C_17.pdb,3H0T_AB_1_C_17
+load 4DGY_HL_1_A_17.pdb,4DGY_HL_1_A_17
 
 util.cbc
 color gray

@@ -1,16 +1,16 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/1SYQ_A_58_B_1.pdb,1SYQ_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/1T01_A_58_B_1.pdb,1T01_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/1U6H_A_58_B_1.pdb,1U6H_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/1YDI_A_58_B_1.pdb,1YDI_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/1ZVZ_A_58_B_1.pdb,1ZVZ_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/1ZW2_A_58_B_1.pdb,1ZW2_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/3RF3_AB_58_D_1.pdb,3RF3_AB_58_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/3S90_B_58_D_1.pdb,3S90_B_58_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/3ZDL_A_58_B_1.pdb,3ZDL_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/4DJ9_A_58_B_1.pdb,4DJ9_A_58_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/58/4E17_A_58_B_1.pdb,4E17_A_58_B_1
+load 1SYQ_A_58_B_1.pdb,1SYQ_A_58_B_1
+load 1T01_A_58_B_1.pdb,1T01_A_58_B_1
+load 1U6H_A_58_B_1.pdb,1U6H_A_58_B_1
+load 1YDI_A_58_B_1.pdb,1YDI_A_58_B_1
+load 1ZVZ_A_58_B_1.pdb,1ZVZ_A_58_B_1
+load 1ZW2_A_58_B_1.pdb,1ZW2_A_58_B_1
+load 3RF3_AB_58_D_1.pdb,3RF3_AB_58_D_1
+load 3S90_B_58_D_1.pdb,3S90_B_58_D_1
+load 3ZDL_A_58_B_1.pdb,3ZDL_A_58_B_1
+load 4DJ9_A_58_B_1.pdb,4DJ9_A_58_B_1
+load 4E17_A_58_B_1.pdb,4E17_A_58_B_1
 
 util.cbc
 color gray

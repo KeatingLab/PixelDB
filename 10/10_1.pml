@@ -1,11 +1,11 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/10/1BJR_E_10_I_1.pdb,1BJR_E_10_I_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/10/1P7V_A_10_B_1.pdb,1P7V_A_10_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/10/1P7W_A_10_B_1.pdb,1P7W_A_10_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/10/1PFG_A_10_B_1.pdb,1PFG_A_10_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/10/2HPZ_A_10_B_1.pdb,2HPZ_A_10_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/10/3OSZ_A_10_B_1.pdb,3OSZ_A_10_B_1
+load 1BJR_E_10_I_1.pdb,1BJR_E_10_I_1
+load 1P7V_A_10_B_1.pdb,1P7V_A_10_B_1
+load 1P7W_A_10_B_1.pdb,1P7W_A_10_B_1
+load 1PFG_A_10_B_1.pdb,1PFG_A_10_B_1
+load 2HPZ_A_10_B_1.pdb,2HPZ_A_10_B_1
+load 3OSZ_A_10_B_1.pdb,3OSZ_A_10_B_1
 
 util.cbc
 color gray

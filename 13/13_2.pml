@@ -1,22 +1,22 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/1LEW_A_13_B_2.pdb,1LEW_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/1LEZ_A_13_B_2.pdb,1LEZ_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/1UKH_A_13_B_2.pdb,1UKH_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2B9H_A_13_C_2.pdb,2B9H_A_13_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2B9I_A_13_C_2.pdb,2B9I_A_13_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2B9J_A_13_C_2.pdb,2B9J_A_13_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2FYS_B_13_D_2.pdb,2FYS_B_13_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2GPH_A_13_B_2.pdb,2GPH_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2Y8O_A_13_B_2.pdb,2Y8O_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3O71_A_13_B_2.pdb,3O71_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3P4K_A_13_P_2.pdb,3P4K_A_13_P_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4G1W_A_13_B_2.pdb,4G1W_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4H39_A_13_B_2.pdb,4H39_A_13_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4H3B_C_13_D_2.pdb,4H3B_C_13_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4UX9_C_13_H_2.pdb,4UX9_C_13_H_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4UX9_A_13_F_2.pdb,4UX9_A_13_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4UX9_B_13_G_2.pdb,4UX9_B_13_G_2
+load 1LEW_A_13_B_2.pdb,1LEW_A_13_B_2
+load 1LEZ_A_13_B_2.pdb,1LEZ_A_13_B_2
+load 1UKH_A_13_B_2.pdb,1UKH_A_13_B_2
+load 2B9H_A_13_C_2.pdb,2B9H_A_13_C_2
+load 2B9I_A_13_C_2.pdb,2B9I_A_13_C_2
+load 2B9J_A_13_C_2.pdb,2B9J_A_13_C_2
+load 2FYS_B_13_D_2.pdb,2FYS_B_13_D_2
+load 2GPH_A_13_B_2.pdb,2GPH_A_13_B_2
+load 2Y8O_A_13_B_2.pdb,2Y8O_A_13_B_2
+load 3O71_A_13_B_2.pdb,3O71_A_13_B_2
+load 3P4K_A_13_P_2.pdb,3P4K_A_13_P_2
+load 4G1W_A_13_B_2.pdb,4G1W_A_13_B_2
+load 4H39_A_13_B_2.pdb,4H39_A_13_B_2
+load 4H3B_C_13_D_2.pdb,4H3B_C_13_D_2
+load 4UX9_C_13_H_2.pdb,4UX9_C_13_H_2
+load 4UX9_A_13_F_2.pdb,4UX9_A_13_F_2
+load 4UX9_B_13_G_2.pdb,4UX9_B_13_G_2
 
 util.cbc
 color gray

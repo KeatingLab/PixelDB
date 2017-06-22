@@ -1,21 +1,21 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AV9_AB_108_X_2.pdb,3AV9_AB_108_X_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVA_AB_108_X_2.pdb,3AVA_AB_108_X_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVB_AB_108_X_2.pdb,3AVB_AB_108_X_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVC_AB_108_F_2.pdb,3AVC_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVF_AB_108_F_2.pdb,3AVF_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVG_AB_108_F_2.pdb,3AVG_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVH_AB_108_F_2.pdb,3AVH_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVI_AB_108_F_2.pdb,3AVI_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVJ_AB_108_F_2.pdb,3AVJ_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVK_AB_108_F_2.pdb,3AVK_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVL_AB_108_F_2.pdb,3AVL_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVM_AB_108_F_2.pdb,3AVM_AB_108_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3AVN_AB_108_H_2.pdb,3AVN_AB_108_H_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3WNE_AB_108_C_2.pdb,3WNE_AB_108_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3WNF_AB_108_C_2.pdb,3WNF_AB_108_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/108/3WNG_AB_108_D_2.pdb,3WNG_AB_108_D_2
+load 3AV9_AB_108_X_2.pdb,3AV9_AB_108_X_2
+load 3AVA_AB_108_X_2.pdb,3AVA_AB_108_X_2
+load 3AVB_AB_108_X_2.pdb,3AVB_AB_108_X_2
+load 3AVC_AB_108_F_2.pdb,3AVC_AB_108_F_2
+load 3AVF_AB_108_F_2.pdb,3AVF_AB_108_F_2
+load 3AVG_AB_108_F_2.pdb,3AVG_AB_108_F_2
+load 3AVH_AB_108_F_2.pdb,3AVH_AB_108_F_2
+load 3AVI_AB_108_F_2.pdb,3AVI_AB_108_F_2
+load 3AVJ_AB_108_F_2.pdb,3AVJ_AB_108_F_2
+load 3AVK_AB_108_F_2.pdb,3AVK_AB_108_F_2
+load 3AVL_AB_108_F_2.pdb,3AVL_AB_108_F_2
+load 3AVM_AB_108_F_2.pdb,3AVM_AB_108_F_2
+load 3AVN_AB_108_H_2.pdb,3AVN_AB_108_H_2
+load 3WNE_AB_108_C_2.pdb,3WNE_AB_108_C_2
+load 3WNF_AB_108_C_2.pdb,3WNF_AB_108_C_2
+load 3WNG_AB_108_D_2.pdb,3WNG_AB_108_D_2
 
 util.cbc
 color gray

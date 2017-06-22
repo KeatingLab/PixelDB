@@ -1,6 +1,6 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/1NVR_A_13_B_7.pdb,1NVR_A_13_B_7
+load 1NVR_A_13_B_7.pdb,1NVR_A_13_B_7
 
 util.cbc
 color gray

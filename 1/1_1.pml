@@ -1,14 +1,14 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1Q1J_HL_1_P_1.pdb,1Q1J_HL_1_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/2HRP_HL_1_P_1.pdb,2HRP_HL_1_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/2XZQ_HL_1_P_1.pdb,2XZQ_HL_1_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3C2A_IM_1_Q_1.pdb,3C2A_IM_1_Q_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3MLR_HL_1_P_1.pdb,3MLR_HL_1_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3MLT_HL_1_P_1.pdb,3MLT_HL_1_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3MLV_MN_1_Q_1.pdb,3MLV_MN_1_Q_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3UJI_HL_1_P_1.pdb,3UJI_HL_1_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3UJJ_HL_1_P_1.pdb,3UJJ_HL_1_P_1
+load 1Q1J_HL_1_P_1.pdb,1Q1J_HL_1_P_1
+load 2HRP_HL_1_P_1.pdb,2HRP_HL_1_P_1
+load 2XZQ_HL_1_P_1.pdb,2XZQ_HL_1_P_1
+load 3C2A_IM_1_Q_1.pdb,3C2A_IM_1_Q_1
+load 3MLR_HL_1_P_1.pdb,3MLR_HL_1_P_1
+load 3MLT_HL_1_P_1.pdb,3MLT_HL_1_P_1
+load 3MLV_MN_1_Q_1.pdb,3MLV_MN_1_Q_1
+load 3UJI_HL_1_P_1.pdb,3UJI_HL_1_P_1
+load 3UJJ_HL_1_P_1.pdb,3UJJ_HL_1_P_1
 
 util.cbc
 color gray

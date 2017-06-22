@@ -1,29 +1,29 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/1ELR_A_23_B_1.pdb,1ELR_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/1ELW_B_23_D_1.pdb,1ELW_B_23_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/2XCB_A_23_C_1.pdb,2XCB_A_23_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3CV0_A_23_B_1.pdb,3CV0_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3CVP_A_23_B_1.pdb,3CVP_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3ESK_A_23_B_1.pdb,3ESK_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3FWV_B_23_D_1.pdb,3FWV_B_23_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3Q47_B_23_C_1.pdb,3Q47_B_23_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3Q49_B_23_C_1.pdb,3Q49_B_23_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3RO2_A_23_B_1.pdb,3RO2_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3RO3_A_23_B_1.pdb,3RO3_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3UPV_A_23_B_1.pdb,3UPV_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4A1S_A_23_C_1.pdb,4A1S_A_23_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4AIF_B_23_E_1.pdb,4AIF_B_23_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4AM9_A_23_B_1.pdb,4AM9_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4APO_B_23_D_1.pdb,4APO_B_23_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4G2V_A_23_B_1.pdb,4G2V_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4JL0_B_23_D_1.pdb,4JL0_B_23_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4N39_A_23_B_1.pdb,4N39_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4N3A_A_23_B_1.pdb,4N3A_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4N3B_A_23_B_1.pdb,4N3B_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4WND_A_23_B_1.pdb,4WND_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4WNE_A_23_B_1.pdb,4WNE_A_23_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4WNG_A_23_B_1.pdb,4WNG_A_23_B_1
+load 1ELR_A_23_B_1.pdb,1ELR_A_23_B_1
+load 1ELW_B_23_D_1.pdb,1ELW_B_23_D_1
+load 2XCB_A_23_C_1.pdb,2XCB_A_23_C_1
+load 3CV0_A_23_B_1.pdb,3CV0_A_23_B_1
+load 3CVP_A_23_B_1.pdb,3CVP_A_23_B_1
+load 3ESK_A_23_B_1.pdb,3ESK_A_23_B_1
+load 3FWV_B_23_D_1.pdb,3FWV_B_23_D_1
+load 3Q47_B_23_C_1.pdb,3Q47_B_23_C_1
+load 3Q49_B_23_C_1.pdb,3Q49_B_23_C_1
+load 3RO2_A_23_B_1.pdb,3RO2_A_23_B_1
+load 3RO3_A_23_B_1.pdb,3RO3_A_23_B_1
+load 3UPV_A_23_B_1.pdb,3UPV_A_23_B_1
+load 4A1S_A_23_C_1.pdb,4A1S_A_23_C_1
+load 4AIF_B_23_E_1.pdb,4AIF_B_23_E_1
+load 4AM9_A_23_B_1.pdb,4AM9_A_23_B_1
+load 4APO_B_23_D_1.pdb,4APO_B_23_D_1
+load 4G2V_A_23_B_1.pdb,4G2V_A_23_B_1
+load 4JL0_B_23_D_1.pdb,4JL0_B_23_D_1
+load 4N39_A_23_B_1.pdb,4N39_A_23_B_1
+load 4N3A_A_23_B_1.pdb,4N3A_A_23_B_1
+load 4N3B_A_23_B_1.pdb,4N3B_A_23_B_1
+load 4WND_A_23_B_1.pdb,4WND_A_23_B_1
+load 4WNE_A_23_B_1.pdb,4WNE_A_23_B_1
+load 4WNG_A_23_B_1.pdb,4WNG_A_23_B_1
 
 util.cbc
 color gray

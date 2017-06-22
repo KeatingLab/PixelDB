@@ -1,29 +1,29 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1AQD_JK_6_L_1.pdb,1AQD_JK_6_L_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1FV1_DE_6_F_1.pdb,1FV1_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1IAK_AB_6_P_1.pdb,1IAK_AB_6_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1JK8_AB_6_C_1.pdb,1JK8_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1KLU_AB_6_C_1.pdb,1KLU_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1MUJ_AB_6_C_1.pdb,1MUJ_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1R5V_CD_6_F_1.pdb,1R5V_CD_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1S9V_DE_6_F_1.pdb,1S9V_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1SJH_AB_6_C_1.pdb,1SJH_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1T5W_DE_6_F_1.pdb,1T5W_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/1UVQ_AB_6_C_1.pdb,1UVQ_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/2NNA_AB_6_C_1.pdb,2NNA_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/2Q6W_DE_6_F_1.pdb,2Q6W_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/3C5J_AB_6_C_1.pdb,3C5J_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/3PDO_AB_6_C_1.pdb,3PDO_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/3QXD_DE_6_F_1.pdb,3QXD_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/3S4S_AB_6_C_1.pdb,3S4S_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/4H25_DE_6_F_1.pdb,4H25_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/4H26_DE_6_F_1.pdb,4H26_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/4I5B_DE_6_F_1.pdb,4I5B_DE_6_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/4IS6_AB_6_C_1.pdb,4IS6_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/4MDJ_AB_6_C_1.pdb,4MDJ_AB_6_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/4OV5_PQ_6_R_1.pdb,4OV5_PQ_6_R_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/6/4X5W_AB_6_C_1.pdb,4X5W_AB_6_C_1
+load 1AQD_JK_6_L_1.pdb,1AQD_JK_6_L_1
+load 1FV1_DE_6_F_1.pdb,1FV1_DE_6_F_1
+load 1IAK_AB_6_P_1.pdb,1IAK_AB_6_P_1
+load 1JK8_AB_6_C_1.pdb,1JK8_AB_6_C_1
+load 1KLU_AB_6_C_1.pdb,1KLU_AB_6_C_1
+load 1MUJ_AB_6_C_1.pdb,1MUJ_AB_6_C_1
+load 1R5V_CD_6_F_1.pdb,1R5V_CD_6_F_1
+load 1S9V_DE_6_F_1.pdb,1S9V_DE_6_F_1
+load 1SJH_AB_6_C_1.pdb,1SJH_AB_6_C_1
+load 1T5W_DE_6_F_1.pdb,1T5W_DE_6_F_1
+load 1UVQ_AB_6_C_1.pdb,1UVQ_AB_6_C_1
+load 2NNA_AB_6_C_1.pdb,2NNA_AB_6_C_1
+load 2Q6W_DE_6_F_1.pdb,2Q6W_DE_6_F_1
+load 3C5J_AB_6_C_1.pdb,3C5J_AB_6_C_1
+load 3PDO_AB_6_C_1.pdb,3PDO_AB_6_C_1
+load 3QXD_DE_6_F_1.pdb,3QXD_DE_6_F_1
+load 3S4S_AB_6_C_1.pdb,3S4S_AB_6_C_1
+load 4H25_DE_6_F_1.pdb,4H25_DE_6_F_1
+load 4H26_DE_6_F_1.pdb,4H26_DE_6_F_1
+load 4I5B_DE_6_F_1.pdb,4I5B_DE_6_F_1
+load 4IS6_AB_6_C_1.pdb,4IS6_AB_6_C_1
+load 4MDJ_AB_6_C_1.pdb,4MDJ_AB_6_C_1
+load 4OV5_PQ_6_R_1.pdb,4OV5_PQ_6_R_1
+load 4X5W_AB_6_C_1.pdb,4X5W_AB_6_C_1
 
 util.cbc
 color gray

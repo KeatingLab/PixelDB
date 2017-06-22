@@ -1,20 +1,20 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1TJG_HL_1_P_10.pdb,1TJG_HL_1_P_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1TJH_HL_1_P_10.pdb,1TJH_HL_1_P_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1TJI_HL_1_P_10.pdb,1TJI_HL_1_P_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U8H_AB_1_C_10.pdb,1U8H_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U8I_AB_1_C_10.pdb,1U8I_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U8J_AB_1_C_10.pdb,1U8J_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U8K_AB_1_C_10.pdb,1U8K_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U8M_AB_1_C_10.pdb,1U8M_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U91_AB_1_C_10.pdb,1U91_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/1U95_AB_1_C_10.pdb,1U95_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/2F5B_HL_1_P_10.pdb,2F5B_HL_1_P_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3GHB_IM_1_Q_10.pdb,3GHB_IM_1_Q_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3IDG_AB_1_C_10.pdb,3IDG_AB_1_C_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3MOA_HL_1_P_10.pdb,3MOA_HL_1_P_10
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3MOD_HL_1_P_10.pdb,3MOD_HL_1_P_10
+load 1TJG_HL_1_P_10.pdb,1TJG_HL_1_P_10
+load 1TJH_HL_1_P_10.pdb,1TJH_HL_1_P_10
+load 1TJI_HL_1_P_10.pdb,1TJI_HL_1_P_10
+load 1U8H_AB_1_C_10.pdb,1U8H_AB_1_C_10
+load 1U8I_AB_1_C_10.pdb,1U8I_AB_1_C_10
+load 1U8J_AB_1_C_10.pdb,1U8J_AB_1_C_10
+load 1U8K_AB_1_C_10.pdb,1U8K_AB_1_C_10
+load 1U8M_AB_1_C_10.pdb,1U8M_AB_1_C_10
+load 1U91_AB_1_C_10.pdb,1U91_AB_1_C_10
+load 1U95_AB_1_C_10.pdb,1U95_AB_1_C_10
+load 2F5B_HL_1_P_10.pdb,2F5B_HL_1_P_10
+load 3GHB_IM_1_Q_10.pdb,3GHB_IM_1_Q_10
+load 3IDG_AB_1_C_10.pdb,3IDG_AB_1_C_10
+load 3MOA_HL_1_P_10.pdb,3MOA_HL_1_P_10
+load 3MOD_HL_1_P_10.pdb,3MOD_HL_1_P_10
 
 util.cbc
 color gray

@@ -1,21 +1,21 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/1EJO_HL_4_P_3.pdb,1EJO_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/1KC5_HL_4_P_3.pdb,1KC5_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/2CK0_HL_4_P_3.pdb,2CK0_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/2G5B_AB_4_I_3.pdb,2G5B_AB_4_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/2HKF_HL_4_P_3.pdb,2HKF_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3E8U_HL_4_P_3.pdb,3E8U_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3GGW_CD_4_F_3.pdb,3GGW_CD_4_F_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3LEX_AB_4_C_3.pdb,3LEX_AB_4_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3LEY_HL_4_P_3.pdb,3LEY_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3O6L_HL_4_C_3.pdb,3O6L_HL_4_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3O6M_HL_4_C_3.pdb,3O6M_HL_4_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3SGE_IJ_4_M_3.pdb,3SGE_IJ_4_M_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3U0T_AB_4_F_3.pdb,3U0T_AB_4_F_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4XBE_HL_4_P_3.pdb,4XBE_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4XCF_HL_4_P_3.pdb,4XCF_HL_4_P_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4XXD_DE_4_F_3.pdb,4XXD_DE_4_F_3
+load 1EJO_HL_4_P_3.pdb,1EJO_HL_4_P_3
+load 1KC5_HL_4_P_3.pdb,1KC5_HL_4_P_3
+load 2CK0_HL_4_P_3.pdb,2CK0_HL_4_P_3
+load 2G5B_AB_4_I_3.pdb,2G5B_AB_4_I_3
+load 2HKF_HL_4_P_3.pdb,2HKF_HL_4_P_3
+load 3E8U_HL_4_P_3.pdb,3E8U_HL_4_P_3
+load 3GGW_CD_4_F_3.pdb,3GGW_CD_4_F_3
+load 3LEX_AB_4_C_3.pdb,3LEX_AB_4_C_3
+load 3LEY_HL_4_P_3.pdb,3LEY_HL_4_P_3
+load 3O6L_HL_4_C_3.pdb,3O6L_HL_4_C_3
+load 3O6M_HL_4_C_3.pdb,3O6M_HL_4_C_3
+load 3SGE_IJ_4_M_3.pdb,3SGE_IJ_4_M_3
+load 3U0T_AB_4_F_3.pdb,3U0T_AB_4_F_3
+load 4XBE_HL_4_P_3.pdb,4XBE_HL_4_P_3
+load 4XCF_HL_4_P_3.pdb,4XCF_HL_4_P_3
+load 4XXD_DE_4_F_3.pdb,4XXD_DE_4_F_3
 
 util.cbc
 color gray

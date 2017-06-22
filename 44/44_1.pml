@@ -1,12 +1,12 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/44/1M7E_C_44_F_1.pdb,1M7E_C_44_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/44/1NTV_A_44_B_1.pdb,1NTV_A_44_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/44/1OQN_A_44_C_1.pdb,1OQN_A_44_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/44/3DXC_C_44_D_1.pdb,3DXC_C_44_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/44/3DXD_C_44_D_1.pdb,3DXD_C_44_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/44/3DXE_C_44_D_1.pdb,3DXE_C_44_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/44/3SO6_A_44_Q_1.pdb,3SO6_A_44_Q_1
+load 1M7E_C_44_F_1.pdb,1M7E_C_44_F_1
+load 1NTV_A_44_B_1.pdb,1NTV_A_44_B_1
+load 1OQN_A_44_C_1.pdb,1OQN_A_44_C_1
+load 3DXC_C_44_D_1.pdb,3DXC_C_44_D_1
+load 3DXD_C_44_D_1.pdb,3DXD_C_44_D_1
+load 3DXE_C_44_D_1.pdb,3DXE_C_44_D_1
+load 3SO6_A_44_Q_1.pdb,3SO6_A_44_Q_1
 
 util.cbc
 color gray

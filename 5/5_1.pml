@@ -1,19 +1,19 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/1AS4_A_5_B_1.pdb,1AS4_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/1F0C_A_5_B_1.pdb,1F0C_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/1LQ8_G_5_H_1.pdb,1LQ8_G_5_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/1MTP_A_5_B_1.pdb,1MTP_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/2H4Q_A_5_B_1.pdb,2H4Q_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/2RIV_A_5_B_1.pdb,2RIV_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/2XN3_A_5_B_1.pdb,2XN3_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/3CAA_A_5_B_1.pdb,3CAA_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/3DY0_A_5_B_1.pdb,3DY0_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/3F02_B_5_D_1.pdb,3F02_B_5_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/3NDD_A_5_B_1.pdb,3NDD_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/4AFX_A_5_B_1.pdb,4AFX_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/4BB2_A_5_B_1.pdb,4BB2_A_5_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/5/4YIA_A_5_B_1.pdb,4YIA_A_5_B_1
+load 1AS4_A_5_B_1.pdb,1AS4_A_5_B_1
+load 1F0C_A_5_B_1.pdb,1F0C_A_5_B_1
+load 1LQ8_G_5_H_1.pdb,1LQ8_G_5_H_1
+load 1MTP_A_5_B_1.pdb,1MTP_A_5_B_1
+load 2H4Q_A_5_B_1.pdb,2H4Q_A_5_B_1
+load 2RIV_A_5_B_1.pdb,2RIV_A_5_B_1
+load 2XN3_A_5_B_1.pdb,2XN3_A_5_B_1
+load 3CAA_A_5_B_1.pdb,3CAA_A_5_B_1
+load 3DY0_A_5_B_1.pdb,3DY0_A_5_B_1
+load 3F02_B_5_D_1.pdb,3F02_B_5_D_1
+load 3NDD_A_5_B_1.pdb,3NDD_A_5_B_1
+load 4AFX_A_5_B_1.pdb,4AFX_A_5_B_1
+load 4BB2_A_5_B_1.pdb,4BB2_A_5_B_1
+load 4YIA_A_5_B_1.pdb,4YIA_A_5_B_1
 
 util.cbc
 color gray

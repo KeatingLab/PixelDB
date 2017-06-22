@@ -1,28 +1,28 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1A3B_H_3_I_3.pdb,1A3B_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1A4W_H_3_I_3.pdb,1A4W_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1BHX_B_3_E_3.pdb,1BHX_B_3_E_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1C4U_2_3_3_3.pdb,1C4U_2_3_3_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1EB1_H_3_A_3.pdb,1EB1_H_3_A_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1G37_A_3_B_3.pdb,1G37_A_3_B_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1HXE_H_3_I_3.pdb,1HXE_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1LHG_H_3_I_3.pdb,1LHG_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1NRR_H_3_R_3.pdb,1NRR_H_3_R_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1QUR_H_3_I_3.pdb,1QUR_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1THR_H_3_I_3.pdb,1THR_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1THS_H_3_I_3.pdb,1THS_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1VZQ_H_3_I_3.pdb,1VZQ_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/1W7G_H_3_I_3.pdb,1W7G_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/2HGT_H_3_J_3.pdb,2HGT_H_3_J_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/2V3H_H_3_I_3.pdb,2V3H_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/3DA9_B_3_D_3.pdb,3DA9_B_3_D_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/3EQ0_H_3_I_3.pdb,3EQ0_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/3LDX_H_3_I_3.pdb,3LDX_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/3P6Z_B_3_C_3.pdb,3P6Z_B_3_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/3VXE_H_3_J_3.pdb,3VXE_H_3_J_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/4AX9_H_3_I_3.pdb,4AX9_H_3_I_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/3/4NZE_H_3_I_3.pdb,4NZE_H_3_I_3
+load 1A3B_H_3_I_3.pdb,1A3B_H_3_I_3
+load 1A4W_H_3_I_3.pdb,1A4W_H_3_I_3
+load 1BHX_B_3_E_3.pdb,1BHX_B_3_E_3
+load 1C4U_2_3_3_3.pdb,1C4U_2_3_3_3
+load 1EB1_H_3_A_3.pdb,1EB1_H_3_A_3
+load 1G37_A_3_B_3.pdb,1G37_A_3_B_3
+load 1HXE_H_3_I_3.pdb,1HXE_H_3_I_3
+load 1LHG_H_3_I_3.pdb,1LHG_H_3_I_3
+load 1NRR_H_3_R_3.pdb,1NRR_H_3_R_3
+load 1QUR_H_3_I_3.pdb,1QUR_H_3_I_3
+load 1THR_H_3_I_3.pdb,1THR_H_3_I_3
+load 1THS_H_3_I_3.pdb,1THS_H_3_I_3
+load 1VZQ_H_3_I_3.pdb,1VZQ_H_3_I_3
+load 1W7G_H_3_I_3.pdb,1W7G_H_3_I_3
+load 2HGT_H_3_J_3.pdb,2HGT_H_3_J_3
+load 2V3H_H_3_I_3.pdb,2V3H_H_3_I_3
+load 3DA9_B_3_D_3.pdb,3DA9_B_3_D_3
+load 3EQ0_H_3_I_3.pdb,3EQ0_H_3_I_3
+load 3LDX_H_3_I_3.pdb,3LDX_H_3_I_3
+load 3P6Z_B_3_C_3.pdb,3P6Z_B_3_C_3
+load 3VXE_H_3_J_3.pdb,3VXE_H_3_J_3
+load 4AX9_H_3_I_3.pdb,4AX9_H_3_I_3
+load 4NZE_H_3_I_3.pdb,4NZE_H_3_I_3
 
 util.cbc
 color gray

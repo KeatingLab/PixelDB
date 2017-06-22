@@ -1,14 +1,14 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1HQQ_AD_29_H_1.pdb,1HQQ_AD_29_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1HY2_A_29_H_1.pdb,1HY2_A_29_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1KL3_A_29_H_1.pdb,1KL3_A_29_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1KL3_A_29_E_1.pdb,1KL3_A_29_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1KL5_BC_29_F_1.pdb,1KL5_BC_29_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1KL5_AD_29_E_1.pdb,1KL5_AD_29_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1SLG_B_29_M_1.pdb,1SLG_B_29_M_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/1VWA_D_29_P_1.pdb,1VWA_D_29_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/29/4JO6_AC_29_Y_1.pdb,4JO6_AC_29_Y_1
+load 1HQQ_AD_29_H_1.pdb,1HQQ_AD_29_H_1
+load 1HY2_A_29_H_1.pdb,1HY2_A_29_H_1
+load 1KL3_A_29_H_1.pdb,1KL3_A_29_H_1
+load 1KL3_A_29_E_1.pdb,1KL3_A_29_E_1
+load 1KL5_BC_29_F_1.pdb,1KL5_BC_29_F_1
+load 1KL5_AD_29_E_1.pdb,1KL5_AD_29_E_1
+load 1SLG_B_29_M_1.pdb,1SLG_B_29_M_1
+load 1VWA_D_29_P_1.pdb,1VWA_D_29_P_1
+load 4JO6_AC_29_Y_1.pdb,4JO6_AC_29_Y_1
 
 util.cbc
 color gray

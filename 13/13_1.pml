@@ -1,25 +1,25 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/1STC_E_13_I_1.pdb,1STC_E_13_I_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2BZK_B_13_A_1.pdb,2BZK_B_13_A_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2C3I_B_13_A_1.pdb,2C3I_B_13_A_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2JDO_A_13_C_1.pdb,2JDO_A_13_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3BU3_A_13_B_1.pdb,3BU3_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3BU5_A_13_B_1.pdb,3BU5_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3CXW_A_13_B_1.pdb,3CXW_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3CY2_A_13_B_1.pdb,3CY2_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3CY3_A_13_B_1.pdb,3CY3_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3L9N_A_13_C_1.pdb,3L9N_A_13_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3OOG_A_13_B_1.pdb,3OOG_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3QAM_E_13_I_1.pdb,3QAM_E_13_I_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3QKL_A_13_C_1.pdb,3QKL_A_13_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3X2U_A_13_S_1.pdb,3X2U_A_13_S_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4FII_A_13_B_1.pdb,4FII_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4JX7_A_13_B_1.pdb,4JX7_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4UJ9_A_13_B_1.pdb,4UJ9_A_13_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4WB6_B_13_J_1.pdb,4WB6_B_13_J_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4WB7_B_13_J_1.pdb,4WB7_B_13_J_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4XW6_A_13_B_1.pdb,4XW6_A_13_B_1
+load 1STC_E_13_I_1.pdb,1STC_E_13_I_1
+load 2BZK_B_13_A_1.pdb,2BZK_B_13_A_1
+load 2C3I_B_13_A_1.pdb,2C3I_B_13_A_1
+load 2JDO_A_13_C_1.pdb,2JDO_A_13_C_1
+load 3BU3_A_13_B_1.pdb,3BU3_A_13_B_1
+load 3BU5_A_13_B_1.pdb,3BU5_A_13_B_1
+load 3CXW_A_13_B_1.pdb,3CXW_A_13_B_1
+load 3CY2_A_13_B_1.pdb,3CY2_A_13_B_1
+load 3CY3_A_13_B_1.pdb,3CY3_A_13_B_1
+load 3L9N_A_13_C_1.pdb,3L9N_A_13_C_1
+load 3OOG_A_13_B_1.pdb,3OOG_A_13_B_1
+load 3QAM_E_13_I_1.pdb,3QAM_E_13_I_1
+load 3QKL_A_13_C_1.pdb,3QKL_A_13_C_1
+load 3X2U_A_13_S_1.pdb,3X2U_A_13_S_1
+load 4FII_A_13_B_1.pdb,4FII_A_13_B_1
+load 4JX7_A_13_B_1.pdb,4JX7_A_13_B_1
+load 4UJ9_A_13_B_1.pdb,4UJ9_A_13_B_1
+load 4WB6_B_13_J_1.pdb,4WB6_B_13_J_1
+load 4WB7_B_13_J_1.pdb,4WB7_B_13_J_1
+load 4XW6_A_13_B_1.pdb,4XW6_A_13_B_1
 
 util.cbc
 color gray

@@ -1,8 +1,8 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/153/4MVI_A_153_B_2.pdb,4MVI_A_153_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/153/4MVK_A_153_B_2.pdb,4MVK_A_153_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/153/4MVL_D_153_H_2.pdb,4MVL_D_153_H_2
+load 4MVI_A_153_B_2.pdb,4MVI_A_153_B_2
+load 4MVK_A_153_B_2.pdb,4MVK_A_153_B_2
+load 4MVL_D_153_H_2.pdb,4MVL_D_153_H_2
 
 util.cbc
 color gray

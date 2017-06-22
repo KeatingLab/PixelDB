@@ -1,6 +1,6 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/200/4J7B_E_200_F_1.pdb,4J7B_E_200_F_1
+load 4J7B_E_200_F_1.pdb,4J7B_E_200_F_1
 
 util.cbc
 color gray

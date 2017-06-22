@@ -1,12 +1,12 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1HKD_A_11_B_1.pdb,1HKD_A_11_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1LEN_A_11_B_1.pdb,1LEN_A_11_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1LES_A_11_B_1.pdb,1LES_A_11_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1LOA_G_11_H_1.pdb,1LOA_G_11_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1LOF_A_11_B_1.pdb,1LOF_A_11_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/1LOG_A_11_B_1.pdb,1LOG_A_11_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/11/2LTN_A_11_B_1.pdb,2LTN_A_11_B_1
+load 1HKD_A_11_B_1.pdb,1HKD_A_11_B_1
+load 1LEN_A_11_B_1.pdb,1LEN_A_11_B_1
+load 1LES_A_11_B_1.pdb,1LES_A_11_B_1
+load 1LOA_G_11_H_1.pdb,1LOA_G_11_H_1
+load 1LOF_A_11_B_1.pdb,1LOF_A_11_B_1
+load 1LOG_A_11_B_1.pdb,1LOG_A_11_B_1
+load 2LTN_A_11_B_1.pdb,2LTN_A_11_B_1
 
 util.cbc
 color gray

@@ -1,10 +1,10 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/128/3NMX_C_128_F_1.pdb,3NMX_C_128_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/128/3QHE_C_128_D_1.pdb,3QHE_C_128_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/128/4YJE_A_128_B_1.pdb,4YJE_A_128_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/128/4YJL_F_128_L_1.pdb,4YJL_F_128_L_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/128/4YK6_A_128_B_1.pdb,4YK6_A_128_B_1
+load 3NMX_C_128_F_1.pdb,3NMX_C_128_F_1
+load 3QHE_C_128_D_1.pdb,3QHE_C_128_D_1
+load 4YJE_A_128_B_1.pdb,4YJE_A_128_B_1
+load 4YJL_F_128_L_1.pdb,4YJL_F_128_L_1
+load 4YK6_A_128_B_1.pdb,4YK6_A_128_B_1
 
 util.cbc
 color gray

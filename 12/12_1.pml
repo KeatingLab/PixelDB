@@ -1,7 +1,7 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/12/1QLS_A_12_D_1.pdb,1QLS_A_12_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/12/3RM1_A_12_B_1.pdb,3RM1_A_12_B_1
+load 1QLS_A_12_D_1.pdb,1QLS_A_12_D_1
+load 3RM1_A_12_B_1.pdb,3RM1_A_12_B_1
 
 util.cbc
 color gray

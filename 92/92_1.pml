@@ -1,12 +1,12 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/92/2P6B_AC_92_E_1.pdb,2P6B_AC_92_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/92/4F0Z_A_92_C_1.pdb,4F0Z_A_92_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/92/4MOY_A_92_B_1.pdb,4MOY_A_92_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/92/4MP0_C_92_D_1.pdb,4MP0_C_92_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/92/4V0V_C_92_D_1.pdb,4V0V_C_92_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/92/4V0W_C_92_D_1.pdb,4V0W_C_92_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/92/4V0X_A_92_B_1.pdb,4V0X_A_92_B_1
+load 2P6B_AC_92_E_1.pdb,2P6B_AC_92_E_1
+load 4F0Z_A_92_C_1.pdb,4F0Z_A_92_C_1
+load 4MOY_A_92_B_1.pdb,4MOY_A_92_B_1
+load 4MP0_C_92_D_1.pdb,4MP0_C_92_D_1
+load 4V0V_C_92_D_1.pdb,4V0V_C_92_D_1
+load 4V0W_C_92_D_1.pdb,4V0W_C_92_D_1
+load 4V0X_A_92_B_1.pdb,4V0X_A_92_B_1
 
 util.cbc
 color gray

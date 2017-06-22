@@ -1,24 +1,24 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/1A3R_HL_4_P_4.pdb,1A3R_HL_4_P_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/1EJO_HL_4_P_4.pdb,1EJO_HL_4_P_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/2CK0_HL_4_P_4.pdb,2CK0_HL_4_P_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3GGW_CD_4_F_4.pdb,3GGW_CD_4_F_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3O6L_HL_4_C_4.pdb,3O6L_HL_4_C_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3O6M_HL_4_C_4.pdb,3O6M_HL_4_C_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3QG6_HL_4_C_4.pdb,3QG6_HL_4_C_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3SGE_IJ_4_M_4.pdb,3SGE_IJ_4_M_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/3U0T_AB_4_F_4.pdb,3U0T_AB_4_F_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4JO1_IM_4_Q_4.pdb,4JO1_IM_4_Q_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4JO2_IM_4_Q_4.pdb,4JO2_IM_4_Q_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4OJF_HL_4_A_4.pdb,4OJF_HL_4_A_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4ONG_HL_4_P_4.pdb,4ONG_HL_4_P_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4P3C_HL_4_M_4.pdb,4P3C_HL_4_M_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4TUJ_CD_4_F_4.pdb,4TUJ_CD_4_F_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4TUK_HL_4_I_4.pdb,4TUK_HL_4_I_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4TUL_HL_4_I_4.pdb,4TUL_HL_4_I_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4XBE_HL_4_P_4.pdb,4XBE_HL_4_P_4
-load /scratch/users/madduran/BuildDatabase/PixelDB/4/4XCF_HL_4_P_4.pdb,4XCF_HL_4_P_4
+load 1A3R_HL_4_P_4.pdb,1A3R_HL_4_P_4
+load 1EJO_HL_4_P_4.pdb,1EJO_HL_4_P_4
+load 2CK0_HL_4_P_4.pdb,2CK0_HL_4_P_4
+load 3GGW_CD_4_F_4.pdb,3GGW_CD_4_F_4
+load 3O6L_HL_4_C_4.pdb,3O6L_HL_4_C_4
+load 3O6M_HL_4_C_4.pdb,3O6M_HL_4_C_4
+load 3QG6_HL_4_C_4.pdb,3QG6_HL_4_C_4
+load 3SGE_IJ_4_M_4.pdb,3SGE_IJ_4_M_4
+load 3U0T_AB_4_F_4.pdb,3U0T_AB_4_F_4
+load 4JO1_IM_4_Q_4.pdb,4JO1_IM_4_Q_4
+load 4JO2_IM_4_Q_4.pdb,4JO2_IM_4_Q_4
+load 4OJF_HL_4_A_4.pdb,4OJF_HL_4_A_4
+load 4ONG_HL_4_P_4.pdb,4ONG_HL_4_P_4
+load 4P3C_HL_4_M_4.pdb,4P3C_HL_4_M_4
+load 4TUJ_CD_4_F_4.pdb,4TUJ_CD_4_F_4
+load 4TUK_HL_4_I_4.pdb,4TUK_HL_4_I_4
+load 4TUL_HL_4_I_4.pdb,4TUL_HL_4_I_4
+load 4XBE_HL_4_P_4.pdb,4XBE_HL_4_P_4
+load 4XCF_HL_4_P_4.pdb,4XCF_HL_4_P_4
 
 util.cbc
 color gray

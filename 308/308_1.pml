@@ -1,6 +1,6 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/308/3GJO_CD_308_G_1.pdb,3GJO_CD_308_G_1
+load 3GJO_CD_308_G_1.pdb,3GJO_CD_308_G_1
 
 util.cbc
 color gray

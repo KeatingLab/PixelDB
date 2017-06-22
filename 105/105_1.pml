@@ -1,13 +1,13 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/2ZVL_B_105_V_1.pdb,2ZVL_B_105_V_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/2ZVL_C_105_W_1.pdb,2ZVL_C_105_W_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/2ZVL_A_105_U_1.pdb,2ZVL_A_105_U_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/2ZVV_B_105_Y_1.pdb,2ZVV_B_105_Y_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/2ZVW_H_105_P_1.pdb,2ZVW_H_105_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/4RJF_A_105_B_1.pdb,4RJF_A_105_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/4ZTD_A_105_E_1.pdb,4ZTD_A_105_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/105/4ZTD_C_105_F_1.pdb,4ZTD_C_105_F_1
+load 2ZVL_B_105_V_1.pdb,2ZVL_B_105_V_1
+load 2ZVL_C_105_W_1.pdb,2ZVL_C_105_W_1
+load 2ZVL_A_105_U_1.pdb,2ZVL_A_105_U_1
+load 2ZVV_B_105_Y_1.pdb,2ZVV_B_105_Y_1
+load 2ZVW_H_105_P_1.pdb,2ZVW_H_105_P_1
+load 4RJF_A_105_B_1.pdb,4RJF_A_105_B_1
+load 4ZTD_A_105_E_1.pdb,4ZTD_A_105_E_1
+load 4ZTD_C_105_F_1.pdb,4ZTD_C_105_F_1
 
 util.cbc
 color gray

@@ -1,16 +1,16 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3QNJ_B_1_D_3.pdb,3QNJ_B_1_D_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/3QNJ_A_1_C_3.pdb,3QNJ_A_1_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4E81_B_1_D_3.pdb,4E81_B_1_D_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZN_B_1_D_3.pdb,4EZN_B_1_D_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZO_B_1_D_3.pdb,4EZO_B_1_D_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZQ_A_1_B_3.pdb,4EZQ_A_1_B_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZR_A_1_B_3.pdb,4EZR_A_1_B_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZV_B_1_D_3.pdb,4EZV_B_1_D_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZW_D_1_H_3.pdb,4EZW_D_1_H_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZX_B_1_D_3.pdb,4EZX_B_1_D_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4EZY_A_1_B_3.pdb,4EZY_A_1_B_3
+load 3QNJ_B_1_D_3.pdb,3QNJ_B_1_D_3
+load 3QNJ_A_1_C_3.pdb,3QNJ_A_1_C_3
+load 4E81_B_1_D_3.pdb,4E81_B_1_D_3
+load 4EZN_B_1_D_3.pdb,4EZN_B_1_D_3
+load 4EZO_B_1_D_3.pdb,4EZO_B_1_D_3
+load 4EZQ_A_1_B_3.pdb,4EZQ_A_1_B_3
+load 4EZR_A_1_B_3.pdb,4EZR_A_1_B_3
+load 4EZV_B_1_D_3.pdb,4EZV_B_1_D_3
+load 4EZW_D_1_H_3.pdb,4EZW_D_1_H_3
+load 4EZX_B_1_D_3.pdb,4EZX_B_1_D_3
+load 4EZY_A_1_B_3.pdb,4EZY_A_1_B_3
 
 util.cbc
 color gray

@@ -1,27 +1,27 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/1ELR_A_23_B_2.pdb,1ELR_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/1ELW_B_23_D_2.pdb,1ELW_B_23_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/1FCH_AB_23_C_2.pdb,1FCH_AB_23_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/2XCB_A_23_C_2.pdb,2XCB_A_23_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3CV0_A_23_B_2.pdb,3CV0_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3CVL_A_23_B_2.pdb,3CVL_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3CVN_A_23_B_2.pdb,3CVN_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3CVP_A_23_B_2.pdb,3CVP_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3ESK_A_23_B_2.pdb,3ESK_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3FWV_B_23_D_2.pdb,3FWV_B_23_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3RO2_A_23_B_2.pdb,3RO2_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/3RO3_A_23_B_2.pdb,3RO3_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4A1S_A_23_C_2.pdb,4A1S_A_23_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4AM9_A_23_B_2.pdb,4AM9_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4G2V_A_23_B_2.pdb,4G2V_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4GYO_B_23_C_2.pdb,4GYO_B_23_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4N39_A_23_B_2.pdb,4N39_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4N3A_A_23_B_2.pdb,4N3A_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4N3B_A_23_B_2.pdb,4N3B_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4WND_A_23_B_2.pdb,4WND_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4WNE_A_23_B_2.pdb,4WNE_A_23_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/23/4WNG_A_23_B_2.pdb,4WNG_A_23_B_2
+load 1ELR_A_23_B_2.pdb,1ELR_A_23_B_2
+load 1ELW_B_23_D_2.pdb,1ELW_B_23_D_2
+load 1FCH_AB_23_C_2.pdb,1FCH_AB_23_C_2
+load 2XCB_A_23_C_2.pdb,2XCB_A_23_C_2
+load 3CV0_A_23_B_2.pdb,3CV0_A_23_B_2
+load 3CVL_A_23_B_2.pdb,3CVL_A_23_B_2
+load 3CVN_A_23_B_2.pdb,3CVN_A_23_B_2
+load 3CVP_A_23_B_2.pdb,3CVP_A_23_B_2
+load 3ESK_A_23_B_2.pdb,3ESK_A_23_B_2
+load 3FWV_B_23_D_2.pdb,3FWV_B_23_D_2
+load 3RO2_A_23_B_2.pdb,3RO2_A_23_B_2
+load 3RO3_A_23_B_2.pdb,3RO3_A_23_B_2
+load 4A1S_A_23_C_2.pdb,4A1S_A_23_C_2
+load 4AM9_A_23_B_2.pdb,4AM9_A_23_B_2
+load 4G2V_A_23_B_2.pdb,4G2V_A_23_B_2
+load 4GYO_B_23_C_2.pdb,4GYO_B_23_C_2
+load 4N39_A_23_B_2.pdb,4N39_A_23_B_2
+load 4N3A_A_23_B_2.pdb,4N3A_A_23_B_2
+load 4N3B_A_23_B_2.pdb,4N3B_A_23_B_2
+load 4WND_A_23_B_2.pdb,4WND_A_23_B_2
+load 4WNE_A_23_B_2.pdb,4WNE_A_23_B_2
+load 4WNG_A_23_B_2.pdb,4WNG_A_23_B_2
 
 util.cbc
 color gray

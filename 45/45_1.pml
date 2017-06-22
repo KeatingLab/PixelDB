@@ -1,7 +1,7 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/45/1MOX_A_45_C_1.pdb,1MOX_A_45_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/45/1MOX_B_45_D_1.pdb,1MOX_B_45_D_1
+load 1MOX_A_45_C_1.pdb,1MOX_A_45_C_1
+load 1MOX_B_45_D_1.pdb,1MOX_B_45_D_1
 
 util.cbc
 color gray

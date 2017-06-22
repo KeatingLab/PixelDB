@@ -1,7 +1,7 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/66/1YTV_A_66_M_3.pdb,1YTV_A_66_M_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/66/1YTV_B_66_N_3.pdb,1YTV_B_66_N_3
+load 1YTV_A_66_M_3.pdb,1YTV_A_66_M_3
+load 1YTV_B_66_N_3.pdb,1YTV_B_66_N_3
 
 util.cbc
 color gray

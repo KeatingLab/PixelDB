@@ -1,13 +1,13 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/1JAC_EG_33_F_1.pdb,1JAC_EG_33_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/1M26_ACE_33_D_1.pdb,1M26_ACE_33_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/3LM1_CKO_33_H_1.pdb,3LM1_CKO_33_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/4AKB_CEG_33_H_1.pdb,4AKB_CEG_33_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/4AKB_ACE_33_F_1.pdb,4AKB_ACE_33_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/4AKC_AEG_33_F_1.pdb,4AKC_AEG_33_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/4R6P_EG_33_F_1.pdb,4R6P_EG_33_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/33/4R6R_EG_33_F_1.pdb,4R6R_EG_33_F_1
+load 1JAC_EG_33_F_1.pdb,1JAC_EG_33_F_1
+load 1M26_ACE_33_D_1.pdb,1M26_ACE_33_D_1
+load 3LM1_CKO_33_H_1.pdb,3LM1_CKO_33_H_1
+load 4AKB_CEG_33_H_1.pdb,4AKB_CEG_33_H_1
+load 4AKB_ACE_33_F_1.pdb,4AKB_ACE_33_F_1
+load 4AKC_AEG_33_F_1.pdb,4AKC_AEG_33_F_1
+load 4R6P_EG_33_F_1.pdb,4R6P_EG_33_F_1
+load 4R6R_EG_33_F_1.pdb,4R6R_EG_33_F_1
 
 util.cbc
 color gray

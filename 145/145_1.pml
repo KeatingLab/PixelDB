@@ -1,10 +1,10 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/145/4BXF_A_145_C_1.pdb,4BXF_A_145_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/145/4BXF_B_145_D_1.pdb,4BXF_B_145_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/145/4CCN_B_145_D_1.pdb,4CCN_B_145_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/145/4CCO_B_145_D_1.pdb,4CCO_B_145_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/145/4Y3O_B_145_D_1.pdb,4Y3O_B_145_D_1
+load 4BXF_A_145_C_1.pdb,4BXF_A_145_C_1
+load 4BXF_B_145_D_1.pdb,4BXF_B_145_D_1
+load 4CCN_B_145_D_1.pdb,4CCN_B_145_D_1
+load 4CCO_B_145_D_1.pdb,4CCO_B_145_D_1
+load 4Y3O_B_145_D_1.pdb,4Y3O_B_145_D_1
 
 util.cbc
 color gray

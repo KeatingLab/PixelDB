@@ -1,15 +1,15 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2B9H_A_13_C_3.pdb,2B9H_A_13_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2B9I_A_13_C_3.pdb,2B9I_A_13_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2B9J_A_13_C_3.pdb,2B9J_A_13_C_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2GPH_A_13_B_3.pdb,2GPH_A_13_B_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2OKR_D_13_F_3.pdb,2OKR_D_13_F_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/2Y9Q_A_13_B_3.pdb,2Y9Q_A_13_B_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/3TEI_A_13_B_3.pdb,3TEI_A_13_B_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4FMQ_A_13_B_3.pdb,4FMQ_A_13_B_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4H3P_D_13_E_3.pdb,4H3P_D_13_E_3
-load /scratch/users/madduran/BuildDatabase/PixelDB/13/4UX9_A_13_F_3.pdb,4UX9_A_13_F_3
+load 2B9H_A_13_C_3.pdb,2B9H_A_13_C_3
+load 2B9I_A_13_C_3.pdb,2B9I_A_13_C_3
+load 2B9J_A_13_C_3.pdb,2B9J_A_13_C_3
+load 2GPH_A_13_B_3.pdb,2GPH_A_13_B_3
+load 2OKR_D_13_F_3.pdb,2OKR_D_13_F_3
+load 2Y9Q_A_13_B_3.pdb,2Y9Q_A_13_B_3
+load 3TEI_A_13_B_3.pdb,3TEI_A_13_B_3
+load 4FMQ_A_13_B_3.pdb,4FMQ_A_13_B_3
+load 4H3P_D_13_E_3.pdb,4H3P_D_13_E_3
+load 4UX9_A_13_F_3.pdb,4UX9_A_13_F_3
 
 util.cbc
 color gray

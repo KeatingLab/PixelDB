@@ -1,6 +1,6 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/226/2VDR_AB_226_C_1.pdb,2VDR_AB_226_C_1
+load 2VDR_AB_226_C_1.pdb,2VDR_AB_226_C_1
 
 util.cbc
 color gray

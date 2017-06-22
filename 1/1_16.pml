@@ -1,14 +1,14 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4G8I_A_1_C_16.pdb,4G8I_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4G9D_A_1_C_16.pdb,4G9D_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4PR5_A_1_C_16.pdb,4PR5_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4PRE_A_1_C_16.pdb,4PRE_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4QRQ_A_1_C_16.pdb,4QRQ_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4QRS_A_1_C_16.pdb,4QRS_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4QRU_A_1_C_16.pdb,4QRU_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4U1N_A_1_C_16.pdb,4U1N_A_1_C_16
-load /scratch/users/madduran/BuildDatabase/PixelDB/1/4U1S_A_1_C_16.pdb,4U1S_A_1_C_16
+load 4G8I_A_1_C_16.pdb,4G8I_A_1_C_16
+load 4G9D_A_1_C_16.pdb,4G9D_A_1_C_16
+load 4PR5_A_1_C_16.pdb,4PR5_A_1_C_16
+load 4PRE_A_1_C_16.pdb,4PRE_A_1_C_16
+load 4QRQ_A_1_C_16.pdb,4QRQ_A_1_C_16
+load 4QRS_A_1_C_16.pdb,4QRS_A_1_C_16
+load 4QRU_A_1_C_16.pdb,4QRU_A_1_C_16
+load 4U1N_A_1_C_16.pdb,4U1N_A_1_C_16
+load 4U1S_A_1_C_16.pdb,4U1S_A_1_C_16
 
 util.cbc
 color gray

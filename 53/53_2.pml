@@ -1,14 +1,14 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/1OV3_AB_53_D_2.pdb,1OV3_AB_53_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/1ZUK_AB_53_C_2.pdb,1ZUK_AB_53_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/2DF6_B_53_D_2.pdb,2DF6_B_53_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/3THK_A_53_C_2.pdb,3THK_A_53_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/4CC2_C_53_D_2.pdb,4CC2_C_53_D_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/4CC3_G_53_H_2.pdb,4CC3_G_53_H_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/4CC7_M_53_N_2.pdb,4CC7_M_53_N_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/4ZNX_AD_53_E_2.pdb,4ZNX_AD_53_E_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/53/4ZNX_BC_53_G_2.pdb,4ZNX_BC_53_G_2
+load 1OV3_AB_53_D_2.pdb,1OV3_AB_53_D_2
+load 1ZUK_AB_53_C_2.pdb,1ZUK_AB_53_C_2
+load 2DF6_B_53_D_2.pdb,2DF6_B_53_D_2
+load 3THK_A_53_C_2.pdb,3THK_A_53_C_2
+load 4CC2_C_53_D_2.pdb,4CC2_C_53_D_2
+load 4CC3_G_53_H_2.pdb,4CC3_G_53_H_2
+load 4CC7_M_53_N_2.pdb,4CC7_M_53_N_2
+load 4ZNX_AD_53_E_2.pdb,4ZNX_AD_53_E_2
+load 4ZNX_BC_53_G_2.pdb,4ZNX_BC_53_G_2
 
 util.cbc
 color gray

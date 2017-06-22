@@ -1,19 +1,19 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/2CE8_A_74_X_1.pdb,2CE8_A_74_X_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/2CE9_A_74_X_1.pdb,2CE9_A_74_X_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/2CO0_A_74_B_1.pdb,2CO0_A_74_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/2XU7_B_74_C_1.pdb,2XU7_B_74_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/3EMH_A_74_B_1.pdb,3EMH_A_74_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/3UVN_C_74_D_1.pdb,3UVN_C_74_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4CY2_A_74_D_1.pdb,4CY2_A_74_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4ERQ_C_74_F_1.pdb,4ERQ_C_74_F_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4ERY_A_74_D_1.pdb,4ERY_A_74_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4ERZ_C_74_D_1.pdb,4ERZ_C_74_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4ES0_A_74_C_1.pdb,4ES0_A_74_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4EWR_A_74_C_1.pdb,4EWR_A_74_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4O45_A_74_B_1.pdb,4O45_A_74_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/74/4R7A_B_74_A_1.pdb,4R7A_B_74_A_1
+load 2CE8_A_74_X_1.pdb,2CE8_A_74_X_1
+load 2CE9_A_74_X_1.pdb,2CE9_A_74_X_1
+load 2CO0_A_74_B_1.pdb,2CO0_A_74_B_1
+load 2XU7_B_74_C_1.pdb,2XU7_B_74_C_1
+load 3EMH_A_74_B_1.pdb,3EMH_A_74_B_1
+load 3UVN_C_74_D_1.pdb,3UVN_C_74_D_1
+load 4CY2_A_74_D_1.pdb,4CY2_A_74_D_1
+load 4ERQ_C_74_F_1.pdb,4ERQ_C_74_F_1
+load 4ERY_A_74_D_1.pdb,4ERY_A_74_D_1
+load 4ERZ_C_74_D_1.pdb,4ERZ_C_74_D_1
+load 4ES0_A_74_C_1.pdb,4ES0_A_74_C_1
+load 4EWR_A_74_C_1.pdb,4EWR_A_74_C_1
+load 4O45_A_74_B_1.pdb,4O45_A_74_B_1
+load 4R7A_B_74_A_1.pdb,4R7A_B_74_A_1
 
 util.cbc
 color gray

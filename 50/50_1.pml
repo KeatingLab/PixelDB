@@ -1,13 +1,13 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/1OK7_B_50_C_1.pdb,1OK7_B_50_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/3D1E_A_50_P_1.pdb,3D1E_A_50_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/3D1F_A_50_P_1.pdb,3D1F_A_50_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/3Q4J_B_50_H_1.pdb,3Q4J_B_50_H_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/4K3O_A_50_E_1.pdb,4K3O_A_50_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/4K3P_A_50_E_1.pdb,4K3P_A_50_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/4K3Q_A_50_E_1.pdb,4K3Q_A_50_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/50/4K3R_A_50_E_1.pdb,4K3R_A_50_E_1
+load 1OK7_B_50_C_1.pdb,1OK7_B_50_C_1
+load 3D1E_A_50_P_1.pdb,3D1E_A_50_P_1
+load 3D1F_A_50_P_1.pdb,3D1F_A_50_P_1
+load 3Q4J_B_50_H_1.pdb,3Q4J_B_50_H_1
+load 4K3O_A_50_E_1.pdb,4K3O_A_50_E_1
+load 4K3P_A_50_E_1.pdb,4K3P_A_50_E_1
+load 4K3Q_A_50_E_1.pdb,4K3Q_A_50_E_1
+load 4K3R_A_50_E_1.pdb,4K3R_A_50_E_1
 
 util.cbc
 color gray

@@ -1,8 +1,8 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/76/2ZPY_A_76_B_1.pdb,2ZPY_A_76_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/76/3BIN_A_76_B_1.pdb,3BIN_A_76_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/76/3WA0_A_76_G_1.pdb,3WA0_A_76_G_1
+load 2ZPY_A_76_B_1.pdb,2ZPY_A_76_B_1
+load 3BIN_A_76_B_1.pdb,3BIN_A_76_B_1
+load 3WA0_A_76_G_1.pdb,3WA0_A_76_G_1
 
 util.cbc
 color gray

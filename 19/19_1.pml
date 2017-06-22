@@ -1,16 +1,16 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/1D8D_AB_19_P_1.pdb,1D8D_AB_19_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/1JCS_AB_19_C_1.pdb,1JCS_AB_19_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/1KZO_AB_19_C_1.pdb,1KZO_AB_19_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/1KZP_AB_19_C_1.pdb,1KZP_AB_19_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/1TN6_B_19_C_1.pdb,1TN6_B_19_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/1TN7_AB_19_C_1.pdb,1TN7_AB_19_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/1TN8_AB_19_C_1.pdb,1TN8_AB_19_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/2H6H_B_19_P_1.pdb,2H6H_B_19_P_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/3Q75_AB_19_G_1.pdb,3Q75_AB_19_G_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/3Q78_B_19_D_1.pdb,3Q78_B_19_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/19/4L9P_AB_19_C_1.pdb,4L9P_AB_19_C_1
+load 1D8D_AB_19_P_1.pdb,1D8D_AB_19_P_1
+load 1JCS_AB_19_C_1.pdb,1JCS_AB_19_C_1
+load 1KZO_AB_19_C_1.pdb,1KZO_AB_19_C_1
+load 1KZP_AB_19_C_1.pdb,1KZP_AB_19_C_1
+load 1TN6_B_19_C_1.pdb,1TN6_B_19_C_1
+load 1TN7_AB_19_C_1.pdb,1TN7_AB_19_C_1
+load 1TN8_AB_19_C_1.pdb,1TN8_AB_19_C_1
+load 2H6H_B_19_P_1.pdb,2H6H_B_19_P_1
+load 3Q75_AB_19_G_1.pdb,3Q75_AB_19_G_1
+load 3Q78_B_19_D_1.pdb,3Q78_B_19_D_1
+load 4L9P_AB_19_C_1.pdb,4L9P_AB_19_C_1
 
 util.cbc
 color gray

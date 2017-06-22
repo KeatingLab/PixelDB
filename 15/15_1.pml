@@ -1,10 +1,10 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/15/1SRN_A_15_B_1.pdb,1SRN_A_15_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/15/1SSA_A_15_B_1.pdb,1SSA_A_15_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/15/1SSB_A_15_B_1.pdb,1SSB_A_15_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/15/3SRN_A_15_B_1.pdb,3SRN_A_15_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/15/4SRN_A_15_B_1.pdb,4SRN_A_15_B_1
+load 1SRN_A_15_B_1.pdb,1SRN_A_15_B_1
+load 1SSA_A_15_B_1.pdb,1SSA_A_15_B_1
+load 1SSB_A_15_B_1.pdb,1SSB_A_15_B_1
+load 3SRN_A_15_B_1.pdb,3SRN_A_15_B_1
+load 4SRN_A_15_B_1.pdb,4SRN_A_15_B_1
 
 util.cbc
 color gray

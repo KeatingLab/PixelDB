@@ -1,14 +1,14 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/2NL9_A_88_B_1.pdb,2NL9_A_88_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/2PQK_A_88_B_1.pdb,2PQK_A_88_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/2VOF_BC_88_D_1.pdb,2VOF_BC_88_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/3D7V_A_88_B_1.pdb,3D7V_A_88_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/3I1H_A_88_B_1.pdb,3I1H_A_88_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/3IO9_A_88_B_1.pdb,3IO9_A_88_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/3KJ1_A_88_B_1.pdb,3KJ1_A_88_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/3KJ2_A_88_B_1.pdb,3KJ2_A_88_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/88/3PK1_C_88_D_1.pdb,3PK1_C_88_D_1
+load 2NL9_A_88_B_1.pdb,2NL9_A_88_B_1
+load 2PQK_A_88_B_1.pdb,2PQK_A_88_B_1
+load 2VOF_BC_88_D_1.pdb,2VOF_BC_88_D_1
+load 3D7V_A_88_B_1.pdb,3D7V_A_88_B_1
+load 3I1H_A_88_B_1.pdb,3I1H_A_88_B_1
+load 3IO9_A_88_B_1.pdb,3IO9_A_88_B_1
+load 3KJ1_A_88_B_1.pdb,3KJ1_A_88_B_1
+load 3KJ2_A_88_B_1.pdb,3KJ2_A_88_B_1
+load 3PK1_C_88_D_1.pdb,3PK1_C_88_D_1
 
 util.cbc
 color gray

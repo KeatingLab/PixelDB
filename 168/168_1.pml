@@ -1,7 +1,7 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/168/5AER_AB_168_C_1.pdb,5AER_AB_168_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/168/5AFP_A_168_D_1.pdb,5AFP_A_168_D_1
+load 5AER_AB_168_C_1.pdb,5AER_AB_168_C_1
+load 5AFP_A_168_D_1.pdb,5AFP_A_168_D_1
 
 util.cbc
 color gray

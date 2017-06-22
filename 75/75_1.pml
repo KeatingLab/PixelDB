@@ -1,10 +1,10 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/75/2CNY_A_75_B_1.pdb,2CNY_A_75_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/75/2CNZ_A_75_B_1.pdb,2CNZ_A_75_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/75/2CO1_A_75_B_1.pdb,2CO1_A_75_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/75/2CO2_A_75_B_1.pdb,2CO2_A_75_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/75/2CO4_A_75_B_1.pdb,2CO4_A_75_B_1
+load 2CNY_A_75_B_1.pdb,2CNY_A_75_B_1
+load 2CNZ_A_75_B_1.pdb,2CNZ_A_75_B_1
+load 2CO1_A_75_B_1.pdb,2CO1_A_75_B_1
+load 2CO2_A_75_B_1.pdb,2CO2_A_75_B_1
+load 2CO4_A_75_B_1.pdb,2CO4_A_75_B_1
 
 util.cbc
 color gray

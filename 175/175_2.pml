@@ -1,6 +1,6 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/175/2G30_A_175_P_2.pdb,2G30_A_175_P_2
+load 2G30_A_175_P_2.pdb,2G30_A_175_P_2
 
 util.cbc
 color gray

@@ -1,13 +1,13 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/1CMI_A_16_C_2.pdb,1CMI_A_16_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/2XQQ_B_16_F_2.pdb,2XQQ_B_16_F_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/3DVP_AB_16_C_2.pdb,3DVP_AB_16_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/3E2B_A_16_C_2.pdb,3E2B_A_16_C_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/3ZKE_IK_16_J_2.pdb,3ZKE_IK_16_J_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/4D07_A_16_B_2.pdb,4D07_A_16_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/4DS1_A_16_B_2.pdb,4DS1_A_16_B_2
-load /scratch/users/madduran/BuildDatabase/PixelDB/16/4HT6_E_16_F_2.pdb,4HT6_E_16_F_2
+load 1CMI_A_16_C_2.pdb,1CMI_A_16_C_2
+load 2XQQ_B_16_F_2.pdb,2XQQ_B_16_F_2
+load 3DVP_AB_16_C_2.pdb,3DVP_AB_16_C_2
+load 3E2B_A_16_C_2.pdb,3E2B_A_16_C_2
+load 3ZKE_IK_16_J_2.pdb,3ZKE_IK_16_J_2
+load 4D07_A_16_B_2.pdb,4D07_A_16_B_2
+load 4DS1_A_16_B_2.pdb,4DS1_A_16_B_2
+load 4HT6_E_16_F_2.pdb,4HT6_E_16_F_2
 
 util.cbc
 color gray

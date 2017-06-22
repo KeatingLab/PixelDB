@@ -1,12 +1,12 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/85/2ILM_A_85_S_1.pdb,2ILM_A_85_S_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/85/2XUM_A_85_S_1.pdb,2XUM_A_85_S_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/85/2Y0I_A_85_S_1.pdb,2Y0I_A_85_S_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/85/3D8C_A_85_B_1.pdb,3D8C_A_85_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/85/3P3N_A_85_B_1.pdb,3P3N_A_85_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/85/4B7E_A_85_B_1.pdb,4B7E_A_85_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/85/4B7K_A_85_B_1.pdb,4B7K_A_85_B_1
+load 2ILM_A_85_S_1.pdb,2ILM_A_85_S_1
+load 2XUM_A_85_S_1.pdb,2XUM_A_85_S_1
+load 2Y0I_A_85_S_1.pdb,2Y0I_A_85_S_1
+load 3D8C_A_85_B_1.pdb,3D8C_A_85_B_1
+load 3P3N_A_85_B_1.pdb,3P3N_A_85_B_1
+load 4B7E_A_85_B_1.pdb,4B7E_A_85_B_1
+load 4B7K_A_85_B_1.pdb,4B7K_A_85_B_1
 
 util.cbc
 color gray

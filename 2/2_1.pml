@@ -1,22 +1,22 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/1A1R_AB_2_D_1.pdb,1A1R_AB_2_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/1DXP_A_2_C_1.pdb,1DXP_A_2_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/1JXP_AB_2_C_1.pdb,1JXP_AB_2_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2A4G_AC_2_B_1.pdb,2A4G_AC_2_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2A4Q_AC_2_B_1.pdb,2A4Q_AC_2_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2A4R_AC_2_B_1.pdb,2A4R_AC_2_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2GVF_AC_2_B_1.pdb,2GVF_AC_2_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2O8M_AB_2_C_1.pdb,2O8M_AB_2_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2OBQ_AC_2_B_1.pdb,2OBQ_AC_2_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2OC0_AC_2_B_1.pdb,2OC0_AC_2_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2OIN_AB_2_D_1.pdb,2OIN_AB_2_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/2XCF_AB_2_C_1.pdb,2XCF_AB_2_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/3EYD_AC_2_B_1.pdb,3EYD_AC_2_B_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/3KEE_A_2_E_1.pdb,3KEE_A_2_E_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/3KF2_AB_2_D_1.pdb,3KF2_AB_2_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/3LON_C_2_D_1.pdb,3LON_C_2_D_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/2/3P8O_B_2_D_1.pdb,3P8O_B_2_D_1
+load 1A1R_AB_2_D_1.pdb,1A1R_AB_2_D_1
+load 1DXP_A_2_C_1.pdb,1DXP_A_2_C_1
+load 1JXP_AB_2_C_1.pdb,1JXP_AB_2_C_1
+load 2A4G_AC_2_B_1.pdb,2A4G_AC_2_B_1
+load 2A4Q_AC_2_B_1.pdb,2A4Q_AC_2_B_1
+load 2A4R_AC_2_B_1.pdb,2A4R_AC_2_B_1
+load 2GVF_AC_2_B_1.pdb,2GVF_AC_2_B_1
+load 2O8M_AB_2_C_1.pdb,2O8M_AB_2_C_1
+load 2OBQ_AC_2_B_1.pdb,2OBQ_AC_2_B_1
+load 2OC0_AC_2_B_1.pdb,2OC0_AC_2_B_1
+load 2OIN_AB_2_D_1.pdb,2OIN_AB_2_D_1
+load 2XCF_AB_2_C_1.pdb,2XCF_AB_2_C_1
+load 3EYD_AC_2_B_1.pdb,3EYD_AC_2_B_1
+load 3KEE_A_2_E_1.pdb,3KEE_A_2_E_1
+load 3KF2_AB_2_D_1.pdb,3KF2_AB_2_D_1
+load 3LON_C_2_D_1.pdb,3LON_C_2_D_1
+load 3P8O_B_2_D_1.pdb,3P8O_B_2_D_1
 
 util.cbc
 color gray

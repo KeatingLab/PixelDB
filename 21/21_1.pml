@@ -1,8 +1,8 @@
 #LOAD THE PDB FILE
 
-load /scratch/users/madduran/BuildDatabase/PixelDB/21/1EHK_AB_21_C_1.pdb,1EHK_AB_21_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/21/1XME_AB_21_C_1.pdb,1XME_AB_21_C_1
-load /scratch/users/madduran/BuildDatabase/PixelDB/21/4G7S_AB_21_C_1.pdb,4G7S_AB_21_C_1
+load 1EHK_AB_21_C_1.pdb,1EHK_AB_21_C_1
+load 1XME_AB_21_C_1.pdb,1XME_AB_21_C_1
+load 4G7S_AB_21_C_1.pdb,4G7S_AB_21_C_1
 
 util.cbc
 color gray
