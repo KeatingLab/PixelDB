@@ -2,7 +2,10 @@
 
 
 
-my $pwd = "/media/vince/Postdoc/PixelDB";
+#my $pwd = "/media/vince/Postdoc/PixelDB/PixelDB";
+my $pwd = `pwd`;
+chomp($pwd);
+print "$pwd\n";
 foreach my $d (glob "$pwd/clusters/*") {
   chdir "$pwd";
   unless(-d  "$d") {next;}

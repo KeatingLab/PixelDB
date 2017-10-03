@@ -1,9 +1,9 @@
 set sphere_scale,0.2
 load 2OV2_F_N_182_1.pdb,2OV2_F_N_182_1
-color gray30, 2OV2_F_N_182_1
+color gray70, 2OV2_F_N_182_1
 hide everything, 2OV2_F_N_182_1
 load 2QME_A_I_182_1.pdb,2QME_A_I_182_1
-color gray30, 2QME_A_I_182_1
+color gray70, 2QME_A_I_182_1
 hide everything, 2QME_A_I_182_1
 show cartoon, chain F & 2OV2_F_N_182_1
 show ribbon, chain N & 2OV2_F_N_182_1

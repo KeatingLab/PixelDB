@@ -1,9 +1,9 @@
 set sphere_scale,0.2
 load 3LK2_AB_T_179_1.pdb,3LK2_AB_T_179_1
-color gray30, 3LK2_AB_T_179_1
+color gray70, 3LK2_AB_T_179_1
 hide everything, 3LK2_AB_T_179_1
 load 3LK4_78_9_179_1.pdb,3LK4_78_9_179_1
-color gray30, 3LK4_78_9_179_1
+color gray70, 3LK4_78_9_179_1
 hide everything, 3LK4_78_9_179_1
 show cartoon, chain A & 3LK2_AB_T_179_1
 show cartoon, chain B & 3LK2_AB_T_179_1

@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 2E7L_EAD_Q_327_1.pdb,2E7L_EAD_Q_327_1
-color gray30, 2E7L_EAD_Q_327_1
+color gray70, 2E7L_EAD_Q_327_1
 hide everything, 2E7L_EAD_Q_327_1
 show cartoon, chain E & 2E7L_EAD_Q_327_1
 show cartoon, chain A & 2E7L_EAD_Q_327_1

@@ -33,8 +33,8 @@ color salmon, chain H & 3TWS_D_H_28_1 & resi 1+2+3+4+5+6+7+8+9+10
 color salmon, chain H & 3TWT_D_H_28_1 & resi 5+6+7+8+9+10+11+12+13+14
 color slate, chain H & 3TWT_D_H_28_1 & resi 1+2+3+4
 
-color salmon, chain B & 3TWU_A_B_28_1 & resi 3+4+5+6+7+8+9+10+11+12
-color slate, chain B & 3TWU_A_B_28_1 & resi 1+2
+color salmon, chain B & 3TWU_A_B_28_1 & resi 3+4+5+6+7+8+9+10+11
+color slate, chain B & 3TWU_A_B_28_1 & resi 1+2+12
 
 color salmon, chain H & 3TWV_D_H_28_1 & resi 1+2+3+4+5+6+7+8+9+10
 

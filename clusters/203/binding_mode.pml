@@ -1,9 +1,9 @@
 set sphere_scale,0.2
 load 3GJF_DKM_F_203_1.pdb,3GJF_DKM_F_203_1
-color gray30, 3GJF_DKM_F_203_1
+color gray70, 3GJF_DKM_F_203_1
 hide everything, 3GJF_DKM_F_203_1
 load 3QFJ_AED_C_203_1.pdb,3QFJ_AED_C_203_1
-color gray30, 3QFJ_AED_C_203_1
+color gray70, 3QFJ_AED_C_203_1
 hide everything, 3QFJ_AED_C_203_1
 show cartoon, chain D & 3GJF_DKM_F_203_1
 show cartoon, chain K & 3GJF_DKM_F_203_1

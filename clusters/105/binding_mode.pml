@@ -1,15 +1,15 @@
 set sphere_scale,0.2
 load 2QAC_A_T_105_1.pdb,2QAC_A_T_105_1
-color gray30, 2QAC_A_T_105_1
+color gray70, 2QAC_A_T_105_1
 hide everything, 2QAC_A_T_105_1
 load 4AOM_A_T_105_1.pdb,4AOM_A_T_105_1
-color gray30, 4AOM_A_T_105_1
+color gray70, 4AOM_A_T_105_1
 hide everything, 4AOM_A_T_105_1
 load 4GGN_C_F_105_1.pdb,4GGN_C_F_105_1
-color gray30, 4GGN_C_F_105_1
+color gray70, 4GGN_C_F_105_1
 hide everything, 4GGN_C_F_105_1
 load 4R1E_A_B_105_1.pdb,4R1E_A_B_105_1
-color gray30, 4R1E_A_B_105_1
+color gray70, 4R1E_A_B_105_1
 hide everything, 4R1E_A_B_105_1
 show cartoon, chain A & 2QAC_A_T_105_1
 show ribbon, chain T & 2QAC_A_T_105_1

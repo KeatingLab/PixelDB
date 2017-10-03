@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 1CN3_AE_F_355_1.pdb,1CN3_AE_F_355_1
-color gray30, 1CN3_AE_F_355_1
+color gray70, 1CN3_AE_F_355_1
 hide everything, 1CN3_AE_F_355_1
 show cartoon, chain A & 1CN3_AE_F_355_1
 show cartoon, chain E & 1CN3_AE_F_355_1

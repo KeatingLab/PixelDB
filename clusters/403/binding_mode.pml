@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 1IK9_AB_C_403_1.pdb,1IK9_AB_C_403_1
-color gray30, 1IK9_AB_C_403_1
+color gray70, 1IK9_AB_C_403_1
 hide everything, 1IK9_AB_C_403_1
 show cartoon, chain A & 1IK9_AB_C_403_1
 show cartoon, chain B & 1IK9_AB_C_403_1

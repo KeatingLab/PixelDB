@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 2IV9_AB_P_323_1.pdb,2IV9_AB_P_323_1
-color gray30, 2IV9_AB_P_323_1
+color gray70, 2IV9_AB_P_323_1
 hide everything, 2IV9_AB_P_323_1
 show cartoon, chain A & 2IV9_AB_P_323_1
 show cartoon, chain B & 2IV9_AB_P_323_1

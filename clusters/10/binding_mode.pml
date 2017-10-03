@@ -1,18 +1,18 @@
 set sphere_scale,0.2
 load 1CA0_GH_F_10_1.pdb,1CA0_GH_F_10_1
-color gray30, 1CA0_GH_F_10_1
+color gray70, 1CA0_GH_F_10_1
 hide everything, 1CA0_GH_F_10_1
 load 1CHO_FG_E_10_1.pdb,1CHO_FG_E_10_1
-color gray30, 1CHO_FG_E_10_1
+color gray70, 1CHO_FG_E_10_1
 hide everything, 1CHO_FG_E_10_1
 load 1RIW_BC_A_10_1.pdb,1RIW_BC_A_10_1
-color gray30, 1RIW_BC_A_10_1
+color gray70, 1RIW_BC_A_10_1
 hide everything, 1RIW_BC_A_10_1
 load 1YPH_DF_B_10_1.pdb,1YPH_DF_B_10_1
-color gray30, 1YPH_DF_B_10_1
+color gray70, 1YPH_DF_B_10_1
 hide everything, 1YPH_DF_B_10_1
 load 2CHA_FG_E_10_1.pdb,2CHA_FG_E_10_1
-color gray30, 2CHA_FG_E_10_1
+color gray70, 2CHA_FG_E_10_1
 hide everything, 2CHA_FG_E_10_1
 show cartoon, chain G & 1CA0_GH_F_10_1
 show cartoon, chain H & 1CA0_GH_F_10_1

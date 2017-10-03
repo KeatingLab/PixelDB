@@ -1,12 +1,12 @@
 set sphere_scale,0.2
 load 2JBY_A_B_104_1.pdb,2JBY_A_B_104_1
-color gray30, 2JBY_A_B_104_1
+color gray70, 2JBY_A_B_104_1
 hide everything, 2JBY_A_B_104_1
 load 3BL2_A_C_104_1.pdb,3BL2_A_C_104_1
-color gray30, 3BL2_A_C_104_1
+color gray70, 3BL2_A_C_104_1
 hide everything, 3BL2_A_C_104_1
 load 3DVU_B_D_104_1.pdb,3DVU_B_D_104_1
-color gray30, 3DVU_B_D_104_1
+color gray70, 3DVU_B_D_104_1
 hide everything, 3DVU_B_D_104_1
 show cartoon, chain A & 2JBY_A_B_104_1
 show ribbon, chain B & 2JBY_A_B_104_1

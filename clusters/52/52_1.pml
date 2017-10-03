@@ -21,16 +21,17 @@ show cartoon, chain D & 4EZ1_DE_N_52_1
 show cartoon, chain E & 4EZ1_DE_N_52_1
 show ribbon, chain N & 4EZ1_DE_N_52_1
 show sphere, chain N & 4EZ1_DE_N_52_1 & name CA
-color salmon, chain J & 2BR8_AE_J_52_1 & resi 1+2+3+4+5+6+7+8+9+10+11+12
-color slate, chain J & 2BR8_AE_J_52_1 & resi 13+14+15+16
+color salmon, chain J & 2BR8_AE_J_52_1 & resi 2+3+4+5+6+7+8+9+10+11+12
+color slate, chain J & 2BR8_AE_J_52_1 & resi 1+13+14+15+16
 
-color salmon, chain H & 2BYP_BC_H_52_1 & resi 1+2+3+4+5+6+7+8+9+10+11
+color salmon, chain H & 2BYP_BC_H_52_1 & resi 2+3+4+5+6+7+8+9+10+11
+color slate, chain H & 2BYP_BC_H_52_1 & resi 1
 
-color salmon, chain T & 2UZ6_FJ_T_52_1 & resi 1+2+3+4+5+6+7+8+9+10+11+12
-color slate, chain T & 2UZ6_FJ_T_52_1 & resi 13+14+15+16
+color salmon, chain T & 2UZ6_FJ_T_52_1 & resi 2+3+4+5+6+7+8+9+10+11+12
+color slate, chain T & 2UZ6_FJ_T_52_1 & resi 1+13+14+15+16
 
-color salmon, chain N & 4EZ1_DE_N_52_1 & resi 1+2+3+4+5+6+7+8+9+10+11+12
-color slate, chain N & 4EZ1_DE_N_52_1 & resi 13
+color salmon, chain N & 4EZ1_DE_N_52_1 & resi 2+3+4+5+6+7+8+9+10+11+12
+color slate, chain N & 4EZ1_DE_N_52_1 & resi 1+13
 
 color blue, chain A & 2BR8_AE_J_52_1 & resi 57+108+110
 color red, chain A & 2BR8_AE_J_52_1 & resi 53+55+77+106+114+115+116+162+164

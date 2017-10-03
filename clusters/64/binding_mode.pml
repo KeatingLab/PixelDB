@@ -1,18 +1,18 @@
 set sphere_scale,0.2
 load 1CMI_A_C_64_1.pdb,1CMI_A_C_64_1
-color gray30, 1CMI_A_C_64_1
+color gray70, 1CMI_A_C_64_1
 hide everything, 1CMI_A_C_64_1
 load 3BRL_A_C_64_1.pdb,3BRL_A_C_64_1
-color gray30, 3BRL_A_C_64_1
+color gray70, 3BRL_A_C_64_1
 hide everything, 3BRL_A_C_64_1
 load 3DVP_A_C_64_1.pdb,3DVP_A_C_64_1
-color gray30, 3DVP_A_C_64_1
+color gray70, 3DVP_A_C_64_1
 hide everything, 3DVP_A_C_64_1
 load 4D07_A_B_64_1.pdb,4D07_A_B_64_1
-color gray30, 4D07_A_B_64_1
+color gray70, 4D07_A_B_64_1
 hide everything, 4D07_A_B_64_1
 load 4HT6_E_F_64_1.pdb,4HT6_E_F_64_1
-color gray30, 4HT6_E_F_64_1
+color gray70, 4HT6_E_F_64_1
 hide everything, 4HT6_E_F_64_1
 show cartoon, chain A & 1CMI_A_C_64_1
 show ribbon, chain C & 1CMI_A_C_64_1

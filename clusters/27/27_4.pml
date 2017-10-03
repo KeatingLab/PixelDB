@@ -1,14 +1,14 @@
-load 3BKJ_HL_A_27_4.pdb,3BKJ_HL_A_27_4
+load 4GW1_DC_F_27_4.pdb,4GW1_DC_F_27_4
 color gray70
 hide everything
 set sphere_scale,0.2
-show cartoon, chain H & 3BKJ_HL_A_27_4
-show cartoon, chain L & 3BKJ_HL_A_27_4
-show ribbon, chain A & 3BKJ_HL_A_27_4
-show sphere, chain A & 3BKJ_HL_A_27_4 & name CA
-color salmon, chain A & 3BKJ_HL_A_27_4 & resi 1+2+3+4+5+6+7
+show cartoon, chain D & 4GW1_DC_F_27_4
+show cartoon, chain C & 4GW1_DC_F_27_4
+show ribbon, chain F & 4GW1_DC_F_27_4
+show sphere, chain F & 4GW1_DC_F_27_4 & name CA
+color salmon, chain F & 4GW1_DC_F_27_4 & resi 1+2+3+4+5+6+7+8+9+10+11+12
 
-color red, chain H & 3BKJ_HL_A_27_4 & resi 48+51+53+54+55+57+99+104+106+107+109
-color red, chain L & 3BKJ_HL_A_27_4 & resi 31+32+33+37+96+97+98+99+101
+color red, chain C & 4GW1_DC_F_27_4 & resi 10+38+39+40+41+42+43+83+84+85+87+100+101+102+103+105+142+165
+color red, chain D & 4GW1_DC_F_27_4 & resi 39+40+41+42+90+91+92+94+111+112+114+154+173+174
 
 hide lines, name C+O+N

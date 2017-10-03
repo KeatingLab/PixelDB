@@ -8,7 +8,6 @@ load 4ERY_A_D_11_1.pdb,4ERY_A_D_11_1
 load 4ERZ_C_D_11_1.pdb,4ERZ_C_D_11_1
 load 4ES0_A_C_11_1.pdb,4ES0_A_C_11_1
 load 4EWR_A_C_11_1.pdb,4EWR_A_C_11_1
-load 4O45_A_B_11_1.pdb,4O45_A_B_11_1
 load 3EG6_A_C_11_1.pdb,3EG6_A_C_11_1
 load 3EMH_A_B_11_1.pdb,3EMH_A_B_11_1
 load 3P4F_A_C_11_1.pdb,3P4F_A_C_11_1
@@ -45,9 +44,6 @@ show sphere, chain C & 4ES0_A_C_11_1 & name CA
 show cartoon, chain A & 4EWR_A_C_11_1
 show ribbon, chain C & 4EWR_A_C_11_1
 show sphere, chain C & 4EWR_A_C_11_1 & name CA
-show cartoon, chain A & 4O45_A_B_11_1
-show ribbon, chain B & 4O45_A_B_11_1
-show sphere, chain B & 4O45_A_B_11_1 & name CA
 show cartoon, chain A & 3EG6_A_C_11_1
 show ribbon, chain C & 3EG6_A_C_11_1
 show sphere, chain C & 3EG6_A_C_11_1 & name CA
@@ -87,9 +83,6 @@ color slate, chain C & 4ES0_A_C_11_1 & resi 1
 color salmon, chain C & 4EWR_A_C_11_1 & resi 4+5+6+7+8+9+10
 color slate, chain C & 4EWR_A_C_11_1 & resi 1+2+3
 
-color salmon, chain B & 4O45_A_B_11_1 & resi 1+2+3+4
-color slate, chain B & 4O45_A_B_11_1 & resi 5
-
 color salmon, chain C & 3EG6_A_C_11_1 & resi 2+3+4+5+6+7+8
 color slate, chain C & 3EG6_A_C_11_1 & resi 1+9
 
@@ -126,9 +119,6 @@ color red, chain A & 4ES0_A_C_11_1 & resi 17+19+35+59+60+61+62+77+101+103+104+11
 
 color blue, chain A & 4EWR_A_C_11_1 & resi 16+292
 color red, chain A & 4EWR_A_C_11_1 & resi 17+19+35+59+60+61+62+77+101+103+104+119+145+161+186+204+229+230+231+233+275+291
-
-color blue, chain A & 4O45_A_B_11_1 & resi 273+293+294
-color red, chain A & 4O45_A_B_11_1 & resi 18+19+20+36+62+78+102+104+105+146+189+231+232+234+276+292
 
 color red, chain A & 3EG6_A_C_11_1 & resi 17+19+35+59+60+61+62+77+101+103+104+119+143+145+161+229+230+231+233+275+291
 

@@ -1,28 +1,14 @@
-load 2G5B_AB_I_4_22.pdb,2G5B_AB_I_4_22
-load 3GGW_CD_F_4_22.pdb,3GGW_CD_F_4_22
+load 3FFD_BA_P_4_22.pdb,3FFD_BA_P_4_22
 color gray70
 hide everything
 set sphere_scale,0.2
-show cartoon, chain A & 2G5B_AB_I_4_22
-show cartoon, chain B & 2G5B_AB_I_4_22
-show ribbon, chain I & 2G5B_AB_I_4_22
-show sphere, chain I & 2G5B_AB_I_4_22 & name CA
-show cartoon, chain C & 3GGW_CD_F_4_22
-show cartoon, chain D & 3GGW_CD_F_4_22
-show ribbon, chain F & 3GGW_CD_F_4_22
-show sphere, chain F & 3GGW_CD_F_4_22 & name CA
-color salmon, chain I & 2G5B_AB_I_4_22 & resi 2+3+4+5+6+7
-color slate, chain I & 2G5B_AB_I_4_22 & resi 1
+show cartoon, chain B & 3FFD_BA_P_4_22
+show cartoon, chain A & 3FFD_BA_P_4_22
+show ribbon, chain P & 3FFD_BA_P_4_22
+show sphere, chain P & 3FFD_BA_P_4_22 & name CA
+color salmon, chain P & 3FFD_BA_P_4_22 & resi 1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18
 
-color salmon, chain F & 3GGW_CD_F_4_22 & resi 1+2+3+4+7+8
-color slate, chain F & 3GGW_CD_F_4_22 & resi 5+6+9+10+11+12
-
-color red, chain A & 2G5B_AB_I_4_22 & resi 31+33+34+38+97+98+99+100
-color red, chain B & 2G5B_AB_I_4_22 & resi 31+33+50+52+53+55+56+103+104+106+108
-
-color blue, chain C & 3GGW_CD_F_4_22 & resi 33+39+55
-color blue, chain D & 3GGW_CD_F_4_22 & resi 32+103
-color red, chain C & 3GGW_CD_F_4_22 & resi 31+37+96+97+98+99+101
-color red, chain D & 3GGW_CD_F_4_22 & resi 31+33+52+53
+color red, chain A & 3FFD_BA_P_4_22 & resi 31+32+33+50+52+53+54+55+56+57+59+99+100+101+102+103+104
+color red, chain B & 3FFD_BA_P_4_22 & resi 30+31+32+34+49+51+52+95+96+97+102
 
 hide lines, name C+O+N

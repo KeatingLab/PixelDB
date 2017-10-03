@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 1W72_DI_F_241_1.pdb,1W72_DI_F_241_1
-color gray30, 1W72_DI_F_241_1
+color gray70, 1W72_DI_F_241_1
 hide everything, 1W72_DI_F_241_1
 show cartoon, chain D & 1W72_DI_F_241_1
 show cartoon, chain I & 1W72_DI_F_241_1

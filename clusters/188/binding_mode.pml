@@ -1,9 +1,9 @@
 set sphere_scale,0.2
 load 1Y43_B_A_188_1.pdb,1Y43_B_A_188_1
-color gray30, 1Y43_B_A_188_1
+color gray70, 1Y43_B_A_188_1
 hide everything, 1Y43_B_A_188_1
 load 3TRS_D_C_188_1.pdb,3TRS_D_C_188_1
-color gray30, 3TRS_D_C_188_1
+color gray70, 3TRS_D_C_188_1
 hide everything, 3TRS_D_C_188_1
 show cartoon, chain B & 1Y43_B_A_188_1
 show ribbon, chain A & 1Y43_B_A_188_1

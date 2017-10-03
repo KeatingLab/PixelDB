@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 3N5E_BA_D_444_1.pdb,3N5E_BA_D_444_1
-color gray30, 3N5E_BA_D_444_1
+color gray70, 3N5E_BA_D_444_1
 hide everything, 3N5E_BA_D_444_1
 show cartoon, chain B & 3N5E_BA_D_444_1
 show cartoon, chain A & 3N5E_BA_D_444_1

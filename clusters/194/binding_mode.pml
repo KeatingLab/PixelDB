@@ -1,9 +1,9 @@
 set sphere_scale,0.2
 load 3C4M_B_D_194_1.pdb,3C4M_B_D_194_1
-color gray30, 3C4M_B_D_194_1
+color gray70, 3C4M_B_D_194_1
 hide everything, 3C4M_B_D_194_1
 load 3H3G_A_B_194_1.pdb,3H3G_A_B_194_1
-color gray30, 3H3G_A_B_194_1
+color gray70, 3H3G_A_B_194_1
 hide everything, 3H3G_A_B_194_1
 show cartoon, chain B & 3C4M_B_D_194_1
 show ribbon, chain D & 3C4M_B_D_194_1

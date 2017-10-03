@@ -1,21 +1,21 @@
 set sphere_scale,0.2
 load 1CJR_B_A_41_1.pdb,1CJR_B_A_41_1
-color gray30, 1CJR_B_A_41_1
+color gray70, 1CJR_B_A_41_1
 hide everything, 1CJR_B_A_41_1
 load 1D5D_B_A_41_1.pdb,1D5D_B_A_41_1
-color gray30, 1D5D_B_A_41_1
+color gray70, 1D5D_B_A_41_1
 hide everything, 1D5D_B_A_41_1
 load 1D5H_B_A_41_1.pdb,1D5H_B_A_41_1
-color gray30, 1D5H_B_A_41_1
+color gray70, 1D5H_B_A_41_1
 hide everything, 1D5H_B_A_41_1
 load 1RBC_A_S_41_1.pdb,1RBC_A_S_41_1
-color gray30, 1RBC_A_S_41_1
+color gray70, 1RBC_A_S_41_1
 hide everything, 1RBC_A_S_41_1
 load 1RBE_A_S_41_1.pdb,1RBE_A_S_41_1
-color gray30, 1RBE_A_S_41_1
+color gray70, 1RBE_A_S_41_1
 hide everything, 1RBE_A_S_41_1
 load 1RBF_A_S_41_1.pdb,1RBF_A_S_41_1
-color gray30, 1RBF_A_S_41_1
+color gray70, 1RBF_A_S_41_1
 hide everything, 1RBF_A_S_41_1
 show cartoon, chain B & 1CJR_B_A_41_1
 show ribbon, chain A & 1CJR_B_A_41_1

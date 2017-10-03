@@ -1,18 +1,18 @@
 set sphere_scale,0.2
 load 2BR8_AB_F_30_1.pdb,2BR8_AB_F_30_1
-color gray30, 2BR8_AB_F_30_1
+color gray70, 2BR8_AB_F_30_1
 hide everything, 2BR8_AB_F_30_1
 load 2BYP_BA_G_30_1.pdb,2BYP_BA_G_30_1
-color gray30, 2BYP_BA_G_30_1
+color gray70, 2BYP_BA_G_30_1
 hide everything, 2BYP_BA_G_30_1
 load 2UZ6_FG_P_30_1.pdb,2UZ6_FG_P_30_1
-color gray30, 2UZ6_FG_P_30_1
+color gray70, 2UZ6_FG_P_30_1
 hide everything, 2UZ6_FG_P_30_1
 load 4EZ1_AE_M_30_1.pdb,4EZ1_AE_M_30_1
-color gray30, 4EZ1_AE_M_30_1
+color gray70, 4EZ1_AE_M_30_1
 hide everything, 4EZ1_AE_M_30_1
 load 4EZ1_BA_L_30_1.pdb,4EZ1_BA_L_30_1
-color gray30, 4EZ1_BA_L_30_1
+color gray70, 4EZ1_BA_L_30_1
 hide everything, 4EZ1_BA_L_30_1
 show cartoon, chain A & 2BR8_AB_F_30_1
 show cartoon, chain B & 2BR8_AB_F_30_1

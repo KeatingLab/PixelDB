@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 4CU4_A_B_382_1.pdb,4CU4_A_B_382_1
-color gray30, 4CU4_A_B_382_1
+color gray70, 4CU4_A_B_382_1
 hide everything, 4CU4_A_B_382_1
 show cartoon, chain A & 4CU4_A_B_382_1
 show ribbon, chain B & 4CU4_A_B_382_1

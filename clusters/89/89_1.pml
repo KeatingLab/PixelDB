@@ -24,8 +24,8 @@ show sphere, chain H & 4RQI_D_H_89_1 & name CA
 color salmon, chain B & 3BQO_A_B_89_1 & resi 2+3+4+5+6+7+8+9
 color slate, chain B & 3BQO_A_B_89_1 & resi 1+10+11+12+13
 
-color salmon, chain D & 3BU8_B_D_89_1 & resi 1+2+3+4+5+6+7+8
-color slate, chain D & 3BU8_B_D_89_1 & resi 9+10
+color salmon, chain D & 3BU8_B_D_89_1 & resi 2+3+4+5+6+7+8
+color slate, chain D & 3BU8_B_D_89_1 & resi 1+9+10
 
 color salmon, chain H & 3BUA_D_H_89_1 & resi 4+5+6+7+8+9+10+11+12
 color slate, chain H & 3BUA_D_H_89_1 & resi 1+2+3

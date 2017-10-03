@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 2DS8_AB_Q_361_1.pdb,2DS8_AB_Q_361_1
-color gray30, 2DS8_AB_Q_361_1
+color gray70, 2DS8_AB_Q_361_1
 hide everything, 2DS8_AB_Q_361_1
 show cartoon, chain A & 2DS8_AB_Q_361_1
 show cartoon, chain B & 2DS8_AB_Q_361_1

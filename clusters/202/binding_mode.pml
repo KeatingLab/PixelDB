@@ -1,9 +1,9 @@
 set sphere_scale,0.2
 load 3S6P_BA_E_202_1.pdb,3S6P_BA_E_202_1
-color gray30, 3S6P_BA_E_202_1
+color gray70, 3S6P_BA_E_202_1
 hide everything, 3S6P_BA_E_202_1
 load 3S6P_CB_F_202_1.pdb,3S6P_CB_F_202_1
-color gray30, 3S6P_CB_F_202_1
+color gray70, 3S6P_CB_F_202_1
 hide everything, 3S6P_CB_F_202_1
 show cartoon, chain B & 3S6P_BA_E_202_1
 show cartoon, chain A & 3S6P_BA_E_202_1

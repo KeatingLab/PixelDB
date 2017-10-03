@@ -1,12 +1,12 @@
-load 5AB0_C_F_95_3.pdb,5AB0_C_F_95_3
+load 4FYS_A_C_95_3.pdb,4FYS_A_C_95_3
 color gray70
 hide everything
 set sphere_scale,0.2
-show cartoon, chain C & 5AB0_C_F_95_3
-show ribbon, chain F & 5AB0_C_F_95_3
-show sphere, chain F & 5AB0_C_F_95_3 & name CA
-color salmon, chain F & 5AB0_C_F_95_3 & resi 1+2+3+4+5+6+7
+show cartoon, chain A & 4FYS_A_C_95_3
+show ribbon, chain C & 4FYS_A_C_95_3
+show sphere, chain C & 4FYS_A_C_95_3 & name CA
+color salmon, chain C & 4FYS_A_C_95_3 & resi 1+2+3+4+5+6
 
-color red, chain C & 5AB0_C_F_95_3 & resi 280+281+292+294+295+310+313+317+347+363+394+402+743+746+747+778+779+782+813+817
+color red, chain A & 4FYS_A_C_95_3 & resi 149+287+288+289+290+291+320+321+324+325+328+347+354+374+378+408+413+800+832+833+836+839+840
 
 hide lines, name C+O+N

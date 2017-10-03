@@ -54,7 +54,8 @@ color salmon, chain E & 4K3P_A_E_38_1 & resi 1+2+3+4+5
 
 color salmon, chain E & 4K3Q_A_E_38_1 & resi 1+2+3+4+5
 
-color salmon, chain E & 4K3R_A_E_38_1 & resi 1+2+3+4+5
+color salmon, chain E & 4K3R_A_E_38_1 & resi 1+2+3+4
+color slate, chain E & 4K3R_A_E_38_1 & resi 5
 
 color salmon, chain C & 4K74_A_C_38_1 & resi 1+2+3+4+5
 
@@ -74,7 +75,8 @@ color red, chain A & 4K3P_A_E_38_1 & resi 145+165+167+168+169+170+235+239+240+31
 
 color red, chain A & 4K3Q_A_E_38_1 & resi 146+148+149+166+168+169+236+241+317+338+356+357+358+359
 
-color red, chain A & 4K3R_A_E_38_1 & resi 166+168+169+170+171+240+241+317+338+340+354+356+357+358+359
+color blue, chain A & 4K3R_A_E_38_1 & resi 240
+color red, chain A & 4K3R_A_E_38_1 & resi 166+168+169+170+171+241+317+338+340+354+356+357+358+359
 
 color red, chain A & 4K74_A_C_38_1 & resi 169+171+172+237+242+315+318+357+358+359
 

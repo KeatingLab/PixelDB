@@ -1,9 +1,9 @@
 set sphere_scale,0.2
 load 4K38_B_C_178_1.pdb,4K38_B_C_178_1
-color gray30, 4K38_B_C_178_1
+color gray70, 4K38_B_C_178_1
 hide everything, 4K38_B_C_178_1
 load 4K39_B_D_178_1.pdb,4K39_B_D_178_1
-color gray30, 4K39_B_D_178_1
+color gray70, 4K39_B_D_178_1
 hide everything, 4K39_B_D_178_1
 show cartoon, chain B & 4K38_B_C_178_1
 show ribbon, chain C & 4K38_B_C_178_1

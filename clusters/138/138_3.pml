@@ -1,12 +1,12 @@
-load 4W50_D_H_138_3.pdb,4W50_D_H_138_3
+load 2QBX_A_P_138_3.pdb,2QBX_A_P_138_3
 color gray70
 hide everything
 set sphere_scale,0.2
-show cartoon, chain D & 4W50_D_H_138_3
-show ribbon, chain H & 4W50_D_H_138_3
-show sphere, chain H & 4W50_D_H_138_3 & name CA
-color salmon, chain H & 4W50_D_H_138_3 & resi 1+2+3+4+5+6+7+8+9+10+11+12
+show cartoon, chain A & 2QBX_A_P_138_3
+show ribbon, chain P & 2QBX_A_P_138_3
+show sphere, chain P & 2QBX_A_P_138_3 & name CA
+color salmon, chain P & 2QBX_A_P_138_3 & resi 1+2+3+4+5+6+7+8+9
 
-color red, chain D & 4W50_D_H_138_3 & resi 25+28+30+32+44+46+47+48+49+77+78+79+84+85+132+135+137+138+139+164+165+166
+color red, chain A & 2QBX_A_P_138_3 & resi 22+25+41+43+44+45+46+74+75+76+77+80+81+135+136+137+138+139+165+166+167
 
 hide lines, name C+O+N

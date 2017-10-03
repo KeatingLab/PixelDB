@@ -23,20 +23,22 @@ show ribbon, chain D & 4PC0_B_D_56_1
 show sphere, chain D & 4PC0_B_D_56_1 & name CA
 color salmon, chain B & 2XYI_A_B_56_1 & resi 1+2+3+4+5+6+7+8+9+10+11+12+13+14
 
-color salmon, chain E & 3CFS_B_E_56_1 & resi 4+5+6+7+8+9+10+11+12+13+14+15
-color slate, chain E & 3CFS_B_E_56_1 & resi 1+2+3
+color salmon, chain E & 3CFS_B_E_56_1 & resi 4+5+6+7+8+9+10+11+12+13+14
+color slate, chain E & 3CFS_B_E_56_1 & resi 1+2+3+15
 
-color salmon, chain D & 4PBY_B_D_56_1 & resi 1+2+3+4+5+6+7+8+9+10+11+12+13
+color salmon, chain D & 4PBY_B_D_56_1 & resi 2+3+4+5+6+7+8+9+10+11+12
+color slate, chain D & 4PBY_B_D_56_1 & resi 1+13
 
-color salmon, chain B & 4PBZ_A_B_56_1 & resi 4+5+6+7+8+9+10+11+12+13+14+15+16+17
-color slate, chain B & 4PBZ_A_B_56_1 & resi 1+2+3+18+19+20+21+22
+color salmon, chain B & 4PBZ_A_B_56_1 & resi 4+5+6+7+8+9+10+11+12+13+14+15+16
+color slate, chain B & 4PBZ_A_B_56_1 & resi 1+2+3+17+18+19+20+21+22
 
-color salmon, chain D & 4PC0_B_D_56_1 & resi 2+3+6+7+8+9+10+11+12+13+14+15+16
-color slate, chain D & 4PC0_B_D_56_1 & resi 1+4+5+17+18+19+20
+color salmon, chain D & 4PC0_B_D_56_1 & resi 2+3+4+5+6+7+8+9+10+11+12+13+14+15
+color slate, chain D & 4PC0_B_D_56_1 & resi 1+16+17+18+19+20
 
 color red, chain A & 2XYI_A_B_56_1 & resi 14+17+18+21+24+25+310+318+323+327+330+335+336+337+338+340+376+377+380
 
-color red, chain B & 3CFS_B_E_56_1 & resi 17+23+24+322+327+331+334+337+339+340+341+342+344+380+381+383+384
+color blue, chain B & 3CFS_B_E_56_1 & resi 17+344
+color red, chain B & 3CFS_B_E_56_1 & resi 23+24+322+327+331+334+337+339+340+341+342+380+381+383+384
 
 color red, chain B & 4PBY_B_D_56_1 & resi 13+16+17+20+23+24+333+334+350+351+353+354+356+359+360+361+362+364+366+400+401+403
 

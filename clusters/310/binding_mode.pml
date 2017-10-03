@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 2GGM_B_D_310_1.pdb,2GGM_B_D_310_1
-color gray30, 2GGM_B_D_310_1
+color gray70, 2GGM_B_D_310_1
 hide everything, 2GGM_B_D_310_1
 show cartoon, chain B & 2GGM_B_D_310_1
 show ribbon, chain D & 2GGM_B_D_310_1

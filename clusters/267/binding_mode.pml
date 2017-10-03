@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 1NCQ_ABC_D_267_1.pdb,1NCQ_ABC_D_267_1
-color gray30, 1NCQ_ABC_D_267_1
+color gray70, 1NCQ_ABC_D_267_1
 hide everything, 1NCQ_ABC_D_267_1
 show cartoon, chain A & 1NCQ_ABC_D_267_1
 show cartoon, chain B & 1NCQ_ABC_D_267_1

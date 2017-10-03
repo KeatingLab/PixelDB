@@ -47,7 +47,7 @@ foreach my $bm (sort keys %bimo) {
     $name =~ s/\.pdb//;
     print PML "load $name.pdb,$name\n";
     print OUT "load $name.pdb,$name\n";
-    print OUT "color gray30, $name\n";
+    print OUT "color gray70, $name\n";
     print OUT "hide everything, $name\n";
   }
   print PML "color gray70\n";

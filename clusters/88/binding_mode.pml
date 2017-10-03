@@ -1,18 +1,18 @@
 set sphere_scale,0.2
 load 3NMX_C_F_88_1.pdb,3NMX_C_F_88_1
-color gray30, 3NMX_C_F_88_1
+color gray70, 3NMX_C_F_88_1
 hide everything, 3NMX_C_F_88_1
 load 3QHE_C_D_88_1.pdb,3QHE_C_D_88_1
-color gray30, 3QHE_C_D_88_1
+color gray70, 3QHE_C_D_88_1
 hide everything, 3QHE_C_D_88_1
 load 4YJE_A_B_88_1.pdb,4YJE_A_B_88_1
-color gray30, 4YJE_A_B_88_1
+color gray70, 4YJE_A_B_88_1
 hide everything, 4YJE_A_B_88_1
 load 4YJL_F_L_88_1.pdb,4YJL_F_L_88_1
-color gray30, 4YJL_F_L_88_1
+color gray70, 4YJL_F_L_88_1
 hide everything, 4YJL_F_L_88_1
 load 4YK6_A_B_88_1.pdb,4YK6_A_B_88_1
-color gray30, 4YK6_A_B_88_1
+color gray70, 4YK6_A_B_88_1
 hide everything, 4YK6_A_B_88_1
 show cartoon, chain C & 3NMX_C_F_88_1
 show ribbon, chain F & 3NMX_C_F_88_1

@@ -1,15 +1,15 @@
 set sphere_scale,0.2
 load 1KU8_ACG_D_79_1.pdb,1KU8_ACG_D_79_1
-color gray30, 1KU8_ACG_D_79_1
+color gray70, 1KU8_ACG_D_79_1
 hide everything, 1KU8_ACG_D_79_1
 load 1M26_ACG_D_79_1.pdb,1M26_ACG_D_79_1
-color gray30, 1M26_ACG_D_79_1
+color gray70, 1M26_ACG_D_79_1
 hide everything, 1M26_ACG_D_79_1
 load 4AKB_CGE_H_79_1.pdb,4AKB_CGE_H_79_1
-color gray30, 4AKB_CGE_H_79_1
+color gray70, 4AKB_CGE_H_79_1
 hide everything, 4AKB_CGE_H_79_1
 load 4AKC_CGE_H_79_1.pdb,4AKC_CGE_H_79_1
-color gray30, 4AKC_CGE_H_79_1
+color gray70, 4AKC_CGE_H_79_1
 hide everything, 4AKC_CGE_H_79_1
 show cartoon, chain A & 1KU8_ACG_D_79_1
 show cartoon, chain C & 1KU8_ACG_D_79_1

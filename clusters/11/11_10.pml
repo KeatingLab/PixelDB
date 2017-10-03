@@ -1,12 +1,12 @@
-load 2H9M_C_D_11_10.pdb,2H9M_C_D_11_10
+load 4J84_A_C_11_10.pdb,4J84_A_C_11_10
 color gray70
 hide everything
 set sphere_scale,0.2
-show cartoon, chain C & 2H9M_C_D_11_10
-show ribbon, chain D & 2H9M_C_D_11_10
-show sphere, chain D & 2H9M_C_D_11_10 & name CA
-color salmon, chain D & 2H9M_C_D_11_10 & resi 1+2+3+4+5
+show cartoon, chain A & 4J84_A_C_11_10
+show ribbon, chain C & 4J84_A_C_11_10
+show sphere, chain C & 4J84_A_C_11_10 & name CA
+color salmon, chain C & 4J84_A_C_11_10 & resi 1+2+3+4+5
 
-color red, chain C & 2H9M_C_D_11_10 & resi 17+18+19+35+60+61+77+101+103+104+145+188+228+229+230+231+232+233+275+291+292
+color red, chain A & 4J84_A_C_11_10 & resi 15+17+33+59+101+143+144+146+163+190+208+232+274+276
 
 hide lines, name C+O+N

@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 1J8H_DBA_C_430_1.pdb,1J8H_DBA_C_430_1
-color gray30, 1J8H_DBA_C_430_1
+color gray70, 1J8H_DBA_C_430_1
 hide everything, 1J8H_DBA_C_430_1
 show cartoon, chain D & 1J8H_DBA_C_430_1
 show cartoon, chain B & 1J8H_DBA_C_430_1

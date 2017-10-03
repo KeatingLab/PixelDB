@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 4DJC_A_B_366_1.pdb,4DJC_A_B_366_1
-color gray30, 4DJC_A_B_366_1
+color gray70, 4DJC_A_B_366_1
 hide everything, 4DJC_A_B_366_1
 show cartoon, chain A & 4DJC_A_B_366_1
 show ribbon, chain B & 4DJC_A_B_366_1

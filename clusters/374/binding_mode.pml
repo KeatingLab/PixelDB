@@ -1,6 +1,6 @@
 set sphere_scale,0.2
 load 2PEH_B_D_374_1.pdb,2PEH_B_D_374_1
-color gray30, 2PEH_B_D_374_1
+color gray70, 2PEH_B_D_374_1
 hide everything, 2PEH_B_D_374_1
 show cartoon, chain B & 2PEH_B_D_374_1
 show ribbon, chain D & 2PEH_B_D_374_1

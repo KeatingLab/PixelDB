@@ -1,18 +1,18 @@
 set sphere_scale,0.2
 load 1Q3P_B_D_81_1.pdb,1Q3P_B_D_81_1
-color gray30, 1Q3P_B_D_81_1
+color gray70, 1Q3P_B_D_81_1
 hide everything, 1Q3P_B_D_81_1
 load 3DIW_B_D_81_1.pdb,3DIW_B_D_81_1
-color gray30, 3DIW_B_D_81_1
+color gray70, 3DIW_B_D_81_1
 hide everything, 3DIW_B_D_81_1
 load 3SFJ_C_D_81_1.pdb,3SFJ_C_D_81_1
-color gray30, 3SFJ_C_D_81_1
+color gray70, 3SFJ_C_D_81_1
 hide everything, 3SFJ_C_D_81_1
 load 4E3B_B_D_81_1.pdb,4E3B_B_D_81_1
-color gray30, 4E3B_B_D_81_1
+color gray70, 4E3B_B_D_81_1
 hide everything, 4E3B_B_D_81_1
 load 4NNM_B_D_81_1.pdb,4NNM_B_D_81_1
-color gray30, 4NNM_B_D_81_1
+color gray70, 4NNM_B_D_81_1
 hide everything, 4NNM_B_D_81_1
 show cartoon, chain B & 1Q3P_B_D_81_1
 show ribbon, chain D & 1Q3P_B_D_81_1
